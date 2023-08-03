@@ -1,0 +1,5428 @@
+[33mcommit eb2aaa17f59b4baa4fac5782c0f488bbc7b30ec8[m[33m ([m[1;36mHEAD -> [m[1;32mpratigya[m[33m)[m
+Author: pratigya0 <126279623+pratigya0@users.noreply.github.com>
+Date:   Thu Aug 3 16:48:39 2023 +0530
+
+    pratigya added a message
+
+[33mcommit 06976ddb5ddb1f0b979e0fd24286fa573a81645f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Chetan Thapliyal <chetan_thapliyal@tuta.io>
+Date:   Sat May 27 23:18:00 2023 +0530
+
+    Added some solutions to CICD (#386)
+
+[33mcommit d3c4773a3f920a2c366c118f84b1bc72fadc2f54[m
+Author: César Freire <iceesar@live.com>
+Date:   Sat May 27 14:45:44 2023 -0300
+
+    Add DNS answers (#375)
+
+[33mcommit d5597c0d31274c1304746a61c78a049c2fc23954[m
+Author: mishal zakeer <128694967+mishalzakeer@users.noreply.github.com>
+Date:   Sat May 27 23:15:15 2023 +0530
+
+    Update README.md (#368)
+    
+    * Update README.md
+
+[33mcommit 49a0de3c7ccfd041cda58825fad353947b2c11c9[m
+Author: Pedro Felipe <18344255+Saliente@users.noreply.github.com>
+Date:   Sat May 27 14:44:15 2023 -0300
+
+    Update README.md (#366)
+    
+    Prometheus section
+
+[33mcommit 572e96b2a773c2dffa53e41ef2b8ace6d8a19912[m
+Author: Sir Jonathan Kariuki <117745295+JonathanSecondGithub@users.noreply.github.com>
+Date:   Sat May 27 20:39:37 2023 +0300
+
+    Fix Spelling Error in Kubernetes Documentation (#389)
+
+[33mcommit 4d72337605d7b36ddf9ccbf186f091ad54b279de[m
+Author: Abu shahma <57855765+Shahmaz0@users.noreply.github.com>
+Date:   Sat May 27 23:08:46 2023 +0530
+
+    Update CKA.md (#391)
+
+[33mcommit b00be5be412f48e433622e92c03ce7d37c2f562d[m
+Author: BeanDoWork <102700653+BeanDoWork@users.noreply.github.com>
+Date:   Mon May 15 16:15:02 2023 -0400
+
+    Added Questions & Answers (#387)
+    
+    * ReadMe Network Q&A Grammar and Spelling Changes
+    
+    * Grammarly spelling and grammar check
+    
+    * Api GateWay? Answered
+    
+    * Advantages of API gateway
+    
+    * fixed advantages
+    
+    * What is HTTPS? Answered
+    
+    * What is a proxy?
+    
+    * Reverse Proxy?
+    
+    * Creative Commons License
+    
+    * Creative Commons Source
+    
+    * Memory Leak?
+    
+    * What is a fileSystem?
+    
+    * What are unit tests?
+    
+    * OSPF explained
+    
+    * OSPF source, learn more link
+    
+    * Disaster Recovery Explained
+    
+    * Regex numbers
+    
+    * First & Last Word of each line regex
+    
+    * IP address Regex
+    
+    * updated regex
+    
+    * Extract email addresses regex
+    
+    * updated regex
+    
+    * Virtual Machines Still relevant
+    
+    * deleted line
+    
+    * Storage types
+    
+    * Hardware Added Questions
+    
+    * fixed details
+
+[33mcommit cda792c1da1d80f7502d42332a10b20c8a9ec41d[m
+Author: Rahul Lokurte <81438015+rahulmlokurte@users.noreply.github.com>
+Date:   Thu May 4 10:55:01 2023 +0530
+
+    Update reference link for subnet mask example (#385)
+
+[33mcommit 987f7110811781f590b2008e66f94079d7b7e6dc[m
+Author: 0xbochi <boschluckas@gmail.com>
+Date:   Fri Apr 7 22:52:10 2023 +0200
+
+    network congestion explanation (#379)
+    
+    Add explanation of network congestion and its causes.
+    Provide recommendations for preventing and managing network congestion.
+
+[33mcommit 93ccde4f461bd6806c35cf05b9f8bda326dd41e3[m
+Author: Rémi... et pas Rémy <102509252+R-D-Y@users.noreply.github.com>
+Date:   Fri Apr 7 08:51:09 2023 +0200
+
+    Update README.md (#378)
+    
+    Update description of 'awk' command (line 172 to 174).
+
+[33mcommit eef46ebf09f75537e5b6d96591ac264a38e73175[m
+Author: Tomasz Kowalski <37942197+wereduk@users.noreply.github.com>
+Date:   Thu Apr 6 21:11:41 2023 +0200
+
+    fixed several typos and misspellings (#373)
+
+[33mcommit 02dbd73bef1083a7215aa76b97102c3412ab0593[m
+Author: MohamedHaroon98 <120387545+MohamedHaroon98@users.noreply.github.com>
+Date:   Thu Apr 6 21:10:39 2023 +0200
+
+    Answer a `services` related question (#371)
+
+[33mcommit 2b6543ef52c1e85afbe93025b808fc9b6e13d27c[m
+Author: MohamedHaroon98 <120387545+MohamedHaroon98@users.noreply.github.com>
+Date:   Thu Apr 6 21:10:20 2023 +0200
+
+    Fix misspelling in CKA.md (#370)
+
+[33mcommit e83fa514cb30a917e6a00818d82f6e243ccc625a[m
+Author: MohamedHaroon98 <120387545+MohamedHaroon98@users.noreply.github.com>
+Date:   Thu Apr 6 21:08:38 2023 +0200
+
+    Combine the `create` and `scale` commands together (#369)
+
+[33mcommit 8e691b56817e4b5f24f2811fe7215239f38db7d8[m
+Author: bregman-arie <bregman.arie@gmail.com>
+Date:   Sat Mar 25 17:41:32 2023 +0000
+
+    Update README index
+
+[33mcommit 11bf00e181225115e63b347c5e72faa94ed2ede7[m
+Author: Haydar KÜLEKCİ <586318+hkulekci@users.noreply.github.com>
+Date:   Sat Mar 25 14:07:39 2023 +0300
+
+    elasticsearch answer updates (#354)
+
+[33mcommit 9e9a6a35d782a97c28ade991ec6881e244193d9c[m
+Author: Adrian <59370927+adrianfusco@users.noreply.github.com>
+Date:   Sat Mar 25 12:05:56 2023 +0100
+
+    Update/run ci script (#352)
+    
+    * New questions and spell check (#181)
+    
+    Added new questions related with KVM, Libvirt and DNF
+    
+    * Improve run_ci script readability
+    
+    * Change shell in workflow
+
+[33mcommit 5599587daddb931af4626e6bcf8118d617794c18[m
+Author: Chetan Thapliyal <chetan_thapliyal@tuta.io>
+Date:   Sat Mar 25 16:32:44 2023 +0530
+
+    Answered some network related questions (#360)
+
+[33mcommit bca183c4624f04c9f83881fbb1d7697f34a482bf[m
+Author: @Kumar <krishnakumar.1905059@srec.ac.in>
+Date:   Sat Mar 25 16:32:15 2023 +0530
+
+    fixed top-down button issues. (#361)
+    
+    Co-authored-by: Arie Bregman <bregman.arie@gmail.com>
+
+[33mcommit 58d0a20307a14398562c0e5cd91a3141113f68f3[m
+Author: Pranay K. Singh <35093184+pranay999000@users.noreply.github.com>
+Date:   Sat Mar 25 16:29:55 2023 +0530
+
+    corrected spelling mistake (#362)
+    
+    * corrected spelling mistake
+    
+    * changed text to code in git/README.md
+    
+    * corrected spelling mistake
+
+[33mcommit 0939fd7996eb9efcf74b919e4f0a56c5ee6c1251[m
+Author: Ashraful Alam <96380861+ashraful-alam2k@users.noreply.github.com>
+Date:   Fri Feb 17 18:35:02 2023 +0000
+
+    Answered Some of The Unanswered Questions. (#348)
+
+[33mcommit 299a1fa9398f6f9a4e97ab08d0d32dce8ac8cea8[m
+Author: Melany Estevez Camata <63152500+Mademoisellefou@users.noreply.github.com>
+Date:   Sun Feb 5 14:51:34 2023 -0400
+
+    changing the function a bit (#314)
+    
+    * changing the function a bit
+    
+    using regex
+    
+    * fixing path
+    
+    fixing path to get README.md
+    
+    * os module
+    
+    removing os module
+    
+    * Update question_utils.py
+    
+    running flake8
+
+[33mcommit 01e1dddd2f810a8aedae9fcf8fca7a70c10a673a[m
+Author: MengDanzz <95761983+MengDanzz@users.noreply.github.com>
+Date:   Mon Feb 6 02:50:51 2023 +0800
+
+    scripts/run_ci.sh to cover directories in the exercises and topics dir (#315)
+    
+    * Smoother practice experience
+    
+    * update ci to check all md files
+    
+    * fix some syntax
+    
+    * fix README-zh_CN.md
+    
+    * update syntax_lint accorging to PEP8
+    
+    * Temporarily delete this question 'Explain the sidecar container pattern' to pass the workflow
+    
+    ---------
+    
+    Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn>
+    Co-authored-by: Arie Bregman <bregman.arie@gmail.com>
+
+[33mcommit 50c9714fe4da37271b3c066f3526a4bc8ec9b408[m
+Author: Thomas Leon Highbaugh <dev@thomasleonhighbaugh.me>
+Date:   Sat Feb 4 02:08:34 2023 -0800
+
+    Update README.md (#347)
+    
+    fix the minor spelling error that drove me nuts
+
+[33mcommit 211c28c340af5d6c50d06cb12cb8414a3b800ada[m
+Author: Ayobami Alaran A <ayobamidele006@gmail.com>
+Date:   Fri Feb 3 10:42:59 2023 +0100
+
+    Added new python exercise with solution (#346)
+    
+    * added new python exercise and solution
+    
+    * add sort exercise and solutions
+    
+    * changed heading1
+    
+    * fixed header description
+
+[33mcommit b35b1f2c2e736524f960eca08c9a3633424529a9[m
+Author: Kirill <kirillg.web@gmail.com>
+Date:   Thu Feb 2 14:00:42 2023 +0300
+
+    Update common software development questions (#342)
+    
+    * Update README.md
+    
+    * Update README.md
+
+[33mcommit c664d2e7e2a7d41e3b787c62a0398e4f620164eb[m
+Author: krufab <10956489+krufab@users.noreply.github.com>
+Date:   Thu Feb 2 12:00:23 2023 +0100
+
+    Added a shorter solution for the directory diff exercise (#344)
+    
+    Signed-off-by: Fabio Kruger <10956489+krufab@users.noreply.github.com>
+
+[33mcommit 47c39f6e9a3854415ca892d2f6c2e13cb97cbd40[m
+Author: Bilalbsd <121106329+Bilalbsd@users.noreply.github.com>
+Date:   Thu Feb 2 11:59:41 2023 +0100
+
+    Contribution to MongoDB topic (#343)
+    
+    * Responding to questions in Puppet section
+    
+    * responding to some MongoDB questions.
+    
+    * responding to some MongoDB questions
+    
+    * fixing the empty space
+    
+    * fixing a typing error
+    
+    * Update README.md
+    
+    Co-authored-by: andrzejsydor <andrzejsydor@users.noreply.github.com>
+
+[33mcommit 6811a827de942ff4fb5e59307920de763ff7aec7[m
+Author: Pankaj Kumar <76695979+pankaj1707k@users.noreply.github.com>
+Date:   Mon Jan 30 02:27:03 2023 +0530
+
+    Complete answer for openstack question (#338)
+    
+    Add one line description of what are 'Neutron' and 'Glance' in openstack
+
+[33mcommit 3ed8064e3eb46a81f9f94ad1e0a888a7fdae893f[m
+Author: Bilalbsd <121106329+Bilalbsd@users.noreply.github.com>
+Date:   Sun Jan 29 21:55:59 2023 +0100
+
+    Responding to questions in Puppet section (#340)
+
+[33mcommit dfb4da70b656469b28b33f0f0d9c8f2f868fb845[m
+Author: Abdellah AHBANE <abdou.ahban61@gmail.com>
+Date:   Wed Jan 25 00:33:00 2023 -0500
+
+    Contribution to azure topic (#335)
+    
+    * Duplicated question
+    
+    * Contribution to azure topic
+
+[33mcommit f1e2be3a54f3ef08d197e3fe4b8aad909f673687[m
+Author: Chimon Sultan <chimons@users.noreply.github.com>
+Date:   Wed Jan 4 13:18:59 2023 +0100
+
+    Use Kubectl command instead of kustomize (#331)
+    
+    Since 1.14, Kubectl also supports the management of Kubernetes objects using a kustomization file.
+    cf. https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/#bases-and-overlays
+
+[33mcommit c7f89d43d543ca34f93a4eae81e5ba7e26711a31[m
+Author: Chimon Sultan <chimons@users.noreply.github.com>
+Date:   Wed Jan 4 13:18:35 2023 +0100
+
+    Removed the need for Kustomize in prerequisites (#332)
+    
+    Since 1.14, Kubectl also supports the management of Kubernetes objects using a kustomization file.
+    cf. https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/#bases-and-overlays
+
+[33mcommit 798ea938a35b141d88c70c11a5fc146e0264ef87[m
+Author: Chimon Sultan <chimons@users.noreply.github.com>
+Date:   Wed Jan 4 13:17:38 2023 +0100
+
+    Fix cascade option value (#330)
+    
+    --cascade=false is deprecated (boolean value) and can be replaced with --cascade=orphan
+
+[33mcommit 5596825a2890147a2ea259c3276fb1c6ce421d46[m
+Author: Adam Djellouli <37275728+djeada@users.noreply.github.com>
+Date:   Sat Dec 31 10:58:36 2022 +0100
+
+    Add definitions for collision and broadcast domains (#327)
+    
+    * added explanation to SSL handshake
+    
+    * Update README.md
+
+[33mcommit 54c67417143b645bf5ffac814692d35c87fab732[m
+Author: Colfenor <34011017+Colfenor@users.noreply.github.com>
+Date:   Fri Dec 30 17:26:06 2022 +0100
+
+    add answer to COW question (#329)
+
+[33mcommit abc8de79b16077ff4df71be9c46ae97d41613510[m
+Author: Adam Djellouli <37275728+djeada@users.noreply.github.com>
+Date:   Fri Dec 23 09:12:18 2022 +0100
+
+    added explanation to SSL handshake (#326)
+
+[33mcommit 9d0662d8cc2079278a0429eaac1fc9b133bcaf8b[m
+Author: Chimon Sultan <chimons@users.noreply.github.com>
+Date:   Mon Dec 12 15:01:55 2022 +0100
+
+    Add questions on SRE and Chaos Engineering (#325)
+
+[33mcommit 407533d58042545c362150d0a694275808bb2ba6[m
+Author: basefas <basefas@hotmail.com>
+Date:   Mon Dec 5 04:21:25 2022 +0800
+
+    Fix: delete duplicate content (#324)
+
+[33mcommit 61cdc9a6e4731fc7064392bfaebaf9b014d6ae7c[m
+Author: G. A. Gama <66579913+usrbinbrain@users.noreply.github.com>
+Date:   Sun Dec 4 17:20:34 2022 -0300
+
+    Add(argument_check.md) Add argument check solution (#323)
+    
+    * Add(argument_check.md) Add argument check solution
+    
+    * Change(argument_check.md) Add objectives of script
+
+[33mcommit 7c00bca649190d28b8217d6ec7016926bc4675c0[m
+Author: An Qiuyu <qiuyu.an@hotmail.com>
+Date:   Thu Nov 24 04:24:52 2022 +0800
+
+    Update ACL for public bucket (#322)
+    
+    Update ACL as "public-read" for the public bucket
+
+[33mcommit 737c411ae8369a1db43467b10f76637c26a040a8[m
+Author: Erik Zilinsky <erik.zilinsky@gmail.com>
+Date:   Wed Nov 23 21:23:38 2022 +0100
+
+    change Ansible from procedural to declarative (#319)
+
+[33mcommit fd88040f5eb20d50ae35340569e51cf30d6b7845[m
+Author: Akbar Ahmed <70852077+Akbar-Ahmed@users.noreply.github.com>
+Date:   Thu Nov 24 01:52:54 2022 +0530
+
+    Update azure-fundamentals-az-900.md (#318)
+
+[33mcommit 672a1bc9e77c9412ec66465999f938b26e6c7716[m
+Author: Nir Magnezi <nir@magnezi.net>
+Date:   Wed Nov 16 17:05:41 2022 +0200
+
+    Add Golang syntax highlighting to README docs (#317)
+
+[33mcommit ad12a30daef76f92c4b5c45e03da5b75d8af19c5[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Nov 12 20:55:13 2022 +0200
+
+    update
+
+[33mcommit 21206e761ed14ac3b54b60238c788ca3ccbe5529[m
+Author: Akbar Ahmed <70852077+Akbar-Ahmed@users.noreply.github.com>
+Date:   Fri Nov 11 12:17:02 2022 +0530
+
+    added about azure firewall (#313)
+
+[33mcommit 4fbe045844662c403672c1a72256f520df5a8aa8[m
+Author: Kyle Haugen <60629503+khaugen7@users.noreply.github.com>
+Date:   Wed Nov 9 02:28:27 2022 -0500
+
+    added various questions and answers to security topic, minor reformatting (#312)
+
+[33mcommit 9435ed4125c76df7244517cc68ada5eabcc4dd42[m
+Author: Derrick Lin <32875990+dlccyes@users.noreply.github.com>
+Date:   Wed Nov 9 00:20:16 2022 +0800
+
+    Make this repo compatible with Jekyll / Github page (#310)
+    
+    * fix: escape {{}} for jekyll liquid
+    
+    * fix: change internal links in main README to comply with Github page
+
+[33mcommit 3d161adce31b18f4721a356691886c4e0820b94e[m
+Author: Hephzi <52066666+poncellat@users.noreply.github.com>
+Date:   Mon Nov 7 10:58:06 2022 +0400
+
+    python compress and decompress string solution (#309)
+    
+    * compress string solution
+    
+    * decompress string solution
+    
+    * style fix
+
+[33mcommit 066a273cd270bfff59f27f76bdd0054e1a0c1941[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Nov 6 23:54:53 2022 +0200
+
+    Add Terraform questions
+
+[33mcommit 252c66fc1f0f0c79f1bc749c9483d8f5c27376d9[m
+Author: Arie Bregman <bregman.arie@gmail.com>
+Date:   Sun Nov 6 22:28:16 2022 +0200
+
+    Create CNAME
+
+[33mcommit ad208750fa3507944a4d19b28ec39eb229ea9e2d[m
+Author: MengDanzz <95761983+MengDanzz@users.noreply.github.com>
+Date:   Sun Nov 6 15:58:03 2022 +0800
+
+    Smoother practice experience (#306)
+    
+    Co-authored-by: zhangzhen <zhangzhen@nao.cas.cn>
+
+[33mcommit 2eed0da5d9ba4ecbcf75003401c6d114522a9d00[m
+Author: Alexandre Espinosa Menor <aemenor@gmail.com>
+Date:   Sun Nov 6 08:57:47 2022 +0100
+
+    s/Hashiciorp/Hashicorp/ (#308)
+
+[33mcommit 21a70c354270f014479fbec2f28bad4a8d08fede[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Nov 2 23:15:49 2022 +0200
+
+    Add more Terraform questions
+    
+    SSIA.
+
+[33mcommit f443543f9dd2a27c3d68ddbd87ebcb30c5dc20a3[m
+Author: Sina Shirparvar <sina.shirparvar@outlook.com>
+Date:   Mon Oct 31 23:34:24 2022 +0330
+
+    Update README.md [Puppet ] (#305)
+    
+    * [puppet] update README.md
+    
+    * [puppet] update README.md
+    
+    Co-authored-by: SinaShirparvar <sina@shirparvar@outlook.com>
+
+[33mcommit e6a80309e055339a590bf5a3da550ad5e58942b4[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 30 21:49:50 2022 +0200
+
+    Add Terraform and Linux questions and exercises
+    
+    Also updated the script that counts questions to actually update
+    the number in README.md
+
+[33mcommit a85e52e64e79e04f7fc6bd187bc722679f229661[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Oct 29 23:01:47 2022 +0300
+
+    Add MORE Terraform questions
+    
+    Oh, this is only the beginning... :)
+    Seriously though, this change adds more questions about workspaces,
+    remote backends and in general, about Terraform state.
+
+[33mcommit 369077c7632b66ca94778a3db7a0100c72e51f2d[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Oct 28 12:22:25 2022 +0300
+
+    Add Terraform questions
+    
+    SSIA.
+
+[33mcommit db7ff1dc936481393dbb6a1e53792d92b1ac9d97[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Oct 27 21:12:00 2022 +0300
+
+    Add Terraform questions
+    
+    Terraform also deserves some attention.
+
+[33mcommit 4f73d7e140415a17ac8bfcaab0576ad05d02cf43[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Oct 26 21:46:23 2022 +0300
+
+    Reduce Git size repo
+
+[33mcommit 085ca9b7e8de444b20c4563b8f20d81eca37d1f2[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Oct 26 21:43:43 2022 +0300
+
+    MORE questions
+    
+    Never stop being curious
+
+[33mcommit c469c84a269835308bd11534c665f6e3ff3f2bbb[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Oct 25 23:39:59 2022 +0300
+
+    Add Argo and k8s questions
+    
+    Also updated Datadog questions.
+
+[33mcommit cbdcfa3e4f0d3c4977ca16e78fc9e93276c5a8d2[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Oct 24 22:50:10 2022 +0300
+
+    Add Datadog and ArgoCD questions
+    
+    As well as exercises.
+
+[33mcommit 7cceb86b38ba94dab83f6d8f855bbc2c9ea452c7[m
+Author: Arie Bregman <bregman.arie@gmail.com>
+Date:   Sun Oct 23 13:02:53 2022 +0300
+
+    Update
+
+[33mcommit d2f681f56ea74c035687fe297e5389e363de3beb[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Oct 21 17:28:51 2022 +0300
+
+    Add a couple of Kubernetes questions
+    
+    Also updated CKA page.
+
+[33mcommit 422a48a34c3533d6d109032e2233584e2606302d[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Oct 21 12:02:30 2022 +0300
+
+    Add k8s questions
+    
+    Updated CKA page as well.
+
+[33mcommit ad66a50f3a44cc911a73cd666254ea1b6d6351c0[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 16 23:17:47 2022 +0300
+
+    Add Circle CI questions
+    
+    In addition to a couple of k8s questions.
+
+[33mcommit 64e6614680e8f4a32c4e269c97121e19d708245b[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 16 18:19:39 2022 +0300
+
+    Add a couple of Kubernetes questions and exercises
+    
+    Also updated CKA page.
+
+[33mcommit 9d018343c018057bc77553029707884e38357c99[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Oct 15 22:34:50 2022 +0300
+
+    Update CKA
+    
+    Added additional questions to CKA and fixed some styling issues with
+    pulumi Python code.
+
+[33mcommit e3c34aa9e4f7d6a28ea0ceb049214e9ab819fb59[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Oct 15 16:30:49 2022 +0300
+
+    Add a couple of questions
+
+[33mcommit b07e6494b0d19d9ceea54e386eb84ff8e8985c5c[m
+Author: Arif Dermawan <38171758+fsociety343@users.noreply.github.com>
+Date:   Thu Oct 13 13:57:59 2022 +0700
+
+    Adding certificates/aws-cloud-sysops-associate.md (#302)
+    
+    * Adding AWS SysOps Associate certification learning resources
+    
+    * Adding certificates/aws-cloud-sysops-associate.md
+    
+    * Update README
+
+[33mcommit 3a1acdae6f0819c5a4478b707caa42435a3a6eaa[m
+Author: jetedonn <88472253+jetedonn@users.noreply.github.com>
+Date:   Wed Oct 12 23:57:37 2022 -0700
+
+    changes in readme file (#303)
+
+[33mcommit 5f06eb01c35dd4e9ca674101d65ba09145613ff8[m
+Author: Arif Dermawan <38171758+fsociety343@users.noreply.github.com>
+Date:   Wed Oct 12 02:57:41 2022 +0700
+
+    Adding AWS SysOps Associate certification learning resources (#301)
+
+[33mcommit a77827ea79fbfacc604d6aed42325b0683cbcacd[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 9 23:05:52 2022 +0300
+
+    Add CKA page
+
+[33mcommit df8b27522c88b33298df0c40bfe8cdbc13898ca5[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Sep 23 10:47:21 2022 +0300
+
+    Add a couple of questions
+
+[33mcommit b05e2e4109cd717b6690b9a8170cc2b227e95bd8[m
+Author: Philemon Nwanne <108567784+philemonnwanne@users.noreply.github.com>
+Date:   Tue Oct 4 11:38:50 2022 +0100
+
+    Update README.md (#300)
+    
+    updated subnet mask definition and example
+
+[33mcommit 7c3e36fe405989461b4cffe522a0428d3fdb3f84[m
+Author: Samuel Maftoul <samuel.maftoul@gmail.com>
+Date:   Tue Sep 20 09:16:12 2022 +0200
+
+    Remove duplicated question in ArgoCD (#296)
+
+[33mcommit f4a402a90ffb02e28fbaef4c1b73f71a52f9136a[m
+Author: n0kke <110296289+n0kke@users.noreply.github.com>
+Date:   Tue Sep 20 02:47:58 2022 -0300
+
+    Fix requirement typo (#295)
+
+[33mcommit e2034e44cd73b30ec75b0e566fbcbd965112ca25[m
+Author: Mahammadali AGHABAYLI <69401842+aghabay@users.noreply.github.com>
+Date:   Sat Sep 17 23:31:03 2022 +0400
+
+    Contributing: Adding a new question regarding DNS (#293)
+
+[33mcommit 46dcd8ec966a54a0834ce3fd9a6fbc19097a1b27[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Sep 15 01:12:17 2022 +0300
+
+    Add questions on ArgoCD
+
+[33mcommit e56bf576dfdd231dae2eefb3a37cdc565ddc0b88[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Sep 14 21:39:47 2022 +0300
+
+    Add questions on ArgoCD
+    
+    As well as on other topics.
+
+[33mcommit 3d129216e0e871fdf7f2895eed9762d6873276c6[m
+Author: iqtheengineer <82541131+iqtheengineer@users.noreply.github.com>
+Date:   Wed Sep 14 04:23:55 2022 -0400
+
+    adding linux answers (#290)
+
+[33mcommit 5c6e49192cbab2f3213ba012210ef21b5d2bcc62[m
+Author: arichard02 <96754069+arichard02@users.noreply.github.com>
+Date:   Tue Sep 13 05:42:03 2022 -0400
+
+    Added answer for virtual memory question (#291)
+
+[33mcommit 1323cbe3acfd1c7ad8c3066fd7c20abb8dc02b28[m
+Author: sjafferitech <71612352+fadedintensity@users.noreply.github.com>
+Date:   Tue Sep 13 04:41:43 2022 -0500
+
+    added answer to HTTP definition (#292)
+
+[33mcommit 2c321fdd478dd485a1440e2e1dd071387ee9a749[m
+Author: Vishnu S <58102524+vishnus17@users.noreply.github.com>
+Date:   Thu Sep 8 11:53:44 2022 +0530
+
+    added description for AWS CloudFormation, AWS CDK in AWS topics (#287)
+    
+    * add description for AWS CloudFormation, AWS CDK
+    
+    * adding cdk
+    
+    * fixing typo
+
+[33mcommit 8db5e5000f3ebe3fa65351f3c11663b7c847eab0[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Sep 7 22:08:20 2022 +0300
+
+    Fix Kubernetes questions format
+    
+    Was using 4 backticks instead of 3.
+
+[33mcommit 682aaa483e908d2f28dc510c4383b65b8ac527c5[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Sep 2 15:00:01 2022 +0300
+
+    Add a couple of questions
+
+[33mcommit 79cb765237feae4d802797b2186f5ab7a0467aa2[m
+Author: Arthur Lutz <arthur.lutz@zenika.com>
+Date:   Wed Sep 7 16:36:08 2022 +0200
+
+    docs(terraform): markdown fix, formatting (#285)
+
+[33mcommit ec96e34907d0a07cbab0d33f52313bc9f5348a1d[m
+Author: YAMADA Nobuko <yamada.nobuk@gmail.com>
+Date:   Wed Sep 7 10:32:13 2022 +0900
+
+    Update README.md. There is "of" twice. (#284)
+
+[33mcommit 23a02b18042754e571496ae1b6ee90dd399a9a96[m
+Author: Ohaneme Kingsley <52282848+ohansck@users.noreply.github.com>
+Date:   Wed Sep 7 02:32:04 2022 +0100
+
+    Update README.md (#283)
+    
+    Edited summary "What is continuous integration". Added "be" to sentence.
+
+[33mcommit 2fc69c673bcc027f3573e84e4f926a11fb6218af[m
+Author: Grace Anyango <gracevalerie1@gmail.com>
+Date:   Sun Sep 4 12:51:05 2022 +0300
+
+    Update aws-cloud-practitioner.md (#282)
+
+[33mcommit cfdec0f18908e87a94433f1632e50e8f768a85f5[m
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Fri Sep 2 17:19:56 2022 +0300
+
+    Add three AWS Lambda questions
+    
+    SSIA.
+
+[33mcommit acc68c45fc6bfad66301471d1364c48a12f27c15[m
+Author: Luke LeVasseur <lukelev@uw.edu>
+Date:   Fri Sep 2 07:53:01 2022 -0400
+
+    Add solution for directories_comparison exercise (#241)
+    
+    * add solution
+    
+    * Update question language
+    
+    * Update question language
+    
+    * Print "No difference" if no difference between dirs
+    
+    Co-authored-by: Luke LeVasseur <llevasseur@flexport.com>
+
+[33mcommit 7cc06460e9c060f95b251a5a4d55d1a94855798b[m
+Author: Kevin <43397636+kevinadhiguna@users.noreply.github.com>
+Date:   Fri Sep 2 18:52:15 2022 +0700
+
+    refactor: make the path relative to the linting script (#264)
+
+[33mcommit d9c53ca6b260d6e2e90328b15bccf5f969361f01[m
+Author: OpenRefactory, Inc <56681071+openrefactory@users.noreply.github.com>
+Date:   Thu Sep 1 00:44:20 2022 +0600
+
+    Suggested fixes by iCR, OpenRefactory, Inc. (#281)
+
+[33mcommit c5b68c20ecc3112168287c267e4affca76836147[m
+Author: Arie Bregman <bregman.arie@gmail.com>
+Date:   Fri Aug 26 10:50:50 2022 +0300
+
+    Add AWS questions
+    
+    Plus some minor fixes.
+
+[33mcommit 5b51d938f2a362a897be33cdf350df305d3550b8[m
+Merge: 48db2d4 6cad4fb
+Author: Arie Bregman <bregman.arie@gmail.com>
+Date:   Thu Aug 25 09:17:32 2022 +0300
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit 48db2d4664440350f36cbfc1b519651f6a436694[m
+Author: Arie Bregman <bregman.arie@gmail.com>
+Date:   Thu Aug 25 09:17:29 2022 +0300
+
+    Update
+
+[33mcommit 6cad4fb95707ff2cc656173adbdd1ff12d052f86[m
+Author: laumane <58359255+laumane@users.noreply.github.com>
+Date:   Thu Aug 25 08:02:08 2022 +0200
+
+    Solutions for MTU (#277)
+    
+    2 solutions
+
+[33mcommit 03a92d5bea62b141b34b58962307f289982a91d1[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Aug 24 21:13:39 2022 +0300
+
+    Add different solutions to AWS exercises
+    
+    Not only console solutions, but also Terraform and Pulumi.
+    
+    In addition, this change fixes issues #279 and #280
+
+[33mcommit 591ef7495b720f52a72799036653c10eff603cf5[m
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Fri Aug 19 13:17:49 2022 +0300
+
+    Add Kubernetes questions
+    
+    And AWS CodePipeline question.
+
+[33mcommit 04dc78b5b7fe8c030aaf21b5ed190dcdcf85cbb4[m
+Author: laumane <58359255+laumane@users.noreply.github.com>
+Date:   Fri Aug 19 07:59:44 2022 +0200
+
+    Solution for /proc (#276)
+
+[33mcommit 63b0f825e116571b041122366597f846670ccb96[m
+Author: Sachin Chavan <chavansachin295@gmail.com>
+Date:   Mon Aug 15 09:32:41 2022 +0400
+
+    Update README.md : fix private ip typo (#274)
+
+[33mcommit 2325b67a97e9dc05e720338dd30523253f2cb760[m
+Author: Anas TAYAA <anas.tayaagi@gmail.com>
+Date:   Wed Aug 10 17:17:51 2022 +0200
+
+    add file to 'Create the file /tmp/some_file' task (#272)
+    
+    Co-authored-by: Anas Tayaa <SESA646124@se.com>
+
+[33mcommit 20518bafbac7f47d8faa0835b886ad0486190b70[m
+Author: Thanh <53460339+ncthanh2000@users.noreply.github.com>
+Date:   Thu Aug 4 02:27:12 2022 +1000
+
+    Update README.md (#270)
+
+[33mcommit 99c4e02ecff1dc9c720d69e694a03796fd4b17b1[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Aug 2 01:51:39 2022 +0300
+
+    Rename exercises dir
+    
+    Name it instead "topics" so it won't be
+    strange if some topics included "exercises" directory.
+
+[33mcommit ea1d94d67bff4caebd6c1732edf6d71ec89762fd[m
+Author: Aniket Shinde <aniket24796@gmail.com>
+Date:   Mon Aug 1 16:12:15 2022 +0530
+
+    Update README.md (#269)
+    
+    answered questions
+
+[33mcommit 9c76c6a7b2499bc4bf37cbc6d1413f9f71d3c056[m
+Author: Aniket Shinde <aniket24796@gmail.com>
+Date:   Sat Jul 30 20:52:28 2022 +0530
+
+    Update README.md (#267)
+    
+    Answered Question
+
+[33mcommit 641f41aa96c5dc6784da9486ae64a2bde21d0796[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Jul 22 00:18:48 2022 +0300
+
+    Add Terraform and AWS exercises
+    
+    In addition to multiple new questions.
+
+[33mcommit 842120d42893ebf0622961e3a0b6d67edd9ddcb8[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Jul 11 01:33:26 2022 +0300
+
+    Add containers questions and exercises
+    
+    Added also a couple of storage questions.
+
+[33mcommit e6946d68f435b5170ce819176fa09f8121026562[m
+Author: laumane <58359255+laumane@users.noreply.github.com>
+Date:   Fri Jul 8 22:10:08 2022 +0200
+
+    Proposition for CA question (#234)
+    
+    * Proposition for CA question
+    
+    * Update CA question
+    
+    I would like to change a little bit the question to include the meaning of a certification. Does it mind you ?
+
+[33mcommit 94b3bc35203f9e69772fede5a2b4fb6e7300b465[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Jul 8 16:14:35 2022 +0300
+
+    Add new exercises
+    
+    Also added indexes for AWS and Linux.
+
+[33mcommit a9dc2202cabcadf14890d58ed115681a43e6489b[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Jul 2 01:12:45 2022 +0300
+
+    Add a couple of containers questions
+
+[33mcommit 738e582468245faca2660b5a9a0b7947a8c4bb76[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Jun 25 17:48:13 2022 +0300
+
+    Add Git exercises
+
+[33mcommit 05f055f0c08ad9815ab1b23becda6e63241fd761[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue May 24 20:09:48 2022 +0300
+
+    Update
+
+[33mcommit 218a43ee31cae6e7bc1d63cc3cad7c26d9a7d292[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun May 1 11:39:02 2022 +0300
+
+    Remove Python questions
+    
+    Move to python-exercises repository
+
+[33mcommit 5662efbb54d7ba03e7eefc6a0b2df3844d9d013e[m
+Author: gokcedemir <gokce.24@hotmail.com>
+Date:   Thu Jun 30 07:56:48 2022 +0300
+
+    Added some frequently asked questions. (#260)
+    
+    * Added frequently asked some soft skill questions
+    
+    * Added k8s question
+
+[33mcommit 0ea15cad67cfa5f39e30214453505cb25ddba0f7[m
+Author: inbinder <zachary.manning@gmail.com>
+Date:   Tue Jun 28 15:07:47 2022 -0400
+
+    Update README.md (#257)
+
+[33mcommit 84640e8eee2c9861cf7299224139b2fd0cf4bca3[m
+Author: Lewis Brogan <ilewisbrogan@gmail.com>
+Date:   Mon Jun 27 07:20:27 2022 +0000
+
+    Fixed CI/CD workflow for issue #182 / #232 (#254)
+    
+    * updated the CI/CD workflow so it works
+    
+    * fixing typos
+    
+    * changed the branch name for the CI pull request
+    
+    * fixing PEP8 issues inside binary_search.py
+    
+    * removed venv from flask8 local testing
+    
+    * fixing executable permissions
+
+[33mcommit 080c5386149eb214d988ad6f9018088a30c3f31f[m
+Author: Yi Byeongyong <ybyo@yibyeongyong.com>
+Date:   Mon Jun 27 16:14:52 2022 +0900
+
+    fix typo (#255)
+
+[33mcommit 9a592130b2d7d4126100b328adfd836b94019e17[m
+Author: vanquisher <32311274+Prajwalmithun@users.noreply.github.com>
+Date:   Wed Jun 1 17:32:40 2022 +0530
+
+    added solution for directories_comparision.md (#249)
+    
+    * added solution to directories_comparision.md
+    
+    * updated the previous shell code
+
+[33mcommit dedb8c698fd951f3ccdb09e6f9950f7c343176c3[m
+Author: Abyel Tesfay <43177672+AbyelT@users.noreply.github.com>
+Date:   Mon May 30 10:40:53 2022 +0200
+
+    Added Grafana questions and answers (#244)
+    
+    * Add grafana Q&A
+    
+    * Refactor answers, add reference
+    
+    * New Q&A
+    
+    * Remove, Modify questions & answers
+    
+    - Updated some answers with additional text
+    - Removed questions "which OS can we install Grafana" and "version upgrade"
+    - Split Question "difference between Default configuration to Custom configuration" into two separate
+    - Fixed grammar on some questions
+
+[33mcommit ca307059860a9e2ca546fa468ce1e40fc170e87b[m
+Author: vanquisher <32311274+Prajwalmithun@users.noreply.github.com>
+Date:   Mon May 30 14:09:56 2022 +0530
+
+    Update/gcp (#248)
+    
+    * added answer for GCP
+    
+    * Added answers to GCP topic
+    
+    * Added answers to GCP topic
+
+[33mcommit ceabf5378bfba5d738eafc363628bb9e489ccb28[m
+Author: Rustam Atai <rystam.atai@gmail.com>
+Date:   Sun May 29 15:37:55 2022 +0100
+
+    Azure related changes (#247)
+    
+    * Fix links and add question about branch strategies
+    
+    * Change location of Azure related questions
+    
+    * Add question about zaure func
+    
+    Co-authored-by: Атаи Рустам Бахтиярович <ratai@borlas.ru>
+
+[33mcommit 1fc1ac186cf28d23dee72bd9ae324dfbac9f2bd5[m
+Author: Neeraj Kumar <susenj@users.noreply.github.com>
+Date:   Wed May 25 20:17:04 2022 +0530
+
+    git rebase usecase updated (#246)
+    
+    * Edited couple answers in the Network section
+    
+    * Edited Latency, Throughput and bandwidth
+    
+    * Edited few more answers in the Linux section
+    
+    * typos
+    
+    * git rebase usecase update
+
+[33mcommit 0a3e8b65ff3f7e237c209075408049b781615c2f[m
+Author: Aksel Uhr <50402197+Akseluhr@users.noreply.github.com>
+Date:   Sun May 22 11:57:38 2022 +0200
+
+    Added security answers and questions (#229)
+    
+    * Added questions and answers
+    
+    Added 15 questions (including answers) and 10 answers to existing questions.
+    
+    * Fixed links/formatation
+    
+    * fixed another typo
+    
+    * Fixed typo
+    
+    * Fixing answers, questions and formatation
+    
+    * Deleted answers that we need to discuss further
+    * Added and clarified questions and answers
+    * Fixed formatation
+    
+    * Removed and modified answers
+    
+    - Removed answer about hashing
+    - Removed Q & A about a software supply chain attack (this one was basically a duplicate as well)
+    - Removed the commercial-question and answers
+    - Rephrased question about describing a software supply chain
+    - Fixed minor formatings
+    
+    * Modified questions and answers
+    
+    - Removed question about DepClean
+    - Added quoutes where needed
+    - Changed grammar of requested questions
+    - Changed formulation of a requested question
+
+[33mcommit 153201a18e8f4226d5f67672c1d1a25a53c5cfe3[m
+Author: Alexander Blackhall <creacha@gmail.com>
+Date:   Thu May 19 17:57:01 2022 +0900
+
+    Made some grammatical corrections in README.MD (#243)
+
+[33mcommit ea6481e8400923bbd8759033fb730bfd5818a98d[m
+Author: Rustam Atai <rystam.atai@gmail.com>
+Date:   Thu May 19 07:46:40 2022 +0100
+
+    Fix links and add question about branch strategies (#242)
+    
+    Co-authored-by: Атаи Рустам Бахтиярович <ratai@borlas.ru>
+
+[33mcommit e8519890290ca35b9e9c3763b132b445738df81a[m
+Author: Renato C. Francisco <56325092+renatocfrancisco@users.noreply.github.com>
+Date:   Tue May 10 02:26:42 2022 -0300
+
+    Update README.md / Added imgs without white background. (#238)
+    
+    * style: icons size changed, img without white bg
+    
+    * Update README.md
+
+[33mcommit 1ae937068c3b1bf0be969d74fdd02a635d5b3293[m
+Author: MX <76264890+xingxing-prog@users.noreply.github.com>
+Date:   Sun May 8 12:21:36 2022 -0400
+
+    To avoid overflow, so change the mid value (#237)
+
+[33mcommit 7c16c2b94ef8adc34c4a61f2c3dd21562c7553bf[m
+Author: laumane <58359255+laumane@users.noreply.github.com>
+Date:   Thu May 5 08:24:13 2022 +0200
+
+    Add answer to an SSH question (#230)
+    
+    * Add answer to a SSH question
+    
+    What is the role of an SSH key?
+    
+    * Update answer SSH question
+    
+    * Update : answer SSH question
+    
+    Wikipedia link added
+
+[33mcommit 7e29d945ba9d67951eb92ebe1539fa012ff16ec7[m
+Author: laumane <58359255+laumane@users.noreply.github.com>
+Date:   Wed May 4 07:43:13 2022 +0200
+
+    Add answer to CVE and CVSS question (#231)
+    
+    * Add answer to CVE and CVSS question
+    
+    Question : Explain CVE and CVSS
+    What do you think ?
+    
+    * Update answer CVE and CVSS question
+    
+    Details added + some links
+
+[33mcommit 7d467579eafa4f9cf4cdfa19cb5d8c02405688e4[m
+Author: Pietro Di Bello <pierodibello@gmail.com>
+Date:   Wed Apr 27 22:17:40 2022 +0200
+
+    fix formatting typo in git Q&A (#226)
+
+[33mcommit 2277eb0c36eb95fa13cf84a0dab24bc10f4f0b07[m
+Author: MARCELO GUERRERO <32203163+croguerrero@users.noreply.github.com>
+Date:   Tue Apr 26 23:43:20 2022 -0500
+
+    update gcp question (#225)
+
+[33mcommit 1364abab585e6178d2da831e8bc43369999474c3[m
+Author: Alok Kumar verma <87599400+alokVerma749@users.noreply.github.com>
+Date:   Tue Apr 26 21:35:48 2022 +0530
+
+    Added the answer for the question: 'How Web Servers Works' (#195)
+    
+    * Added the answer for the question: 'How Web Servers Works'
+    
+    * updated the document
+    
+    Added more relevant information about web servers.
+    
+    * Added the answer and also specifies the source
+    
+    * complete required changes
+
+[33mcommit 019d31986ee19ffa5f14d79c875d0c019a5f3ad4[m
+Author: Adam Djellouli <37275728+djeada@users.noreply.github.com>
+Date:   Tue Apr 26 06:36:58 2022 +0200
+
+    add type hints to binary_search.py script (#222)
+
+[33mcommit 53ea5e2a177b65f32de10fd47f9ec763a4ffbc8a[m
+Author: Neeraj Kumar <susenj@users.noreply.github.com>
+Date:   Sat Apr 23 12:09:44 2022 +0530
+
+    Edited few more answers in the Linux section and fixed some typos (#221)
+    
+    * Edited couple answers in the Network section
+    
+    * Edited Latency, Throughput and bandwidth
+    
+    * Edited few more answers in the Linux section
+    
+    * typos
+
+[33mcommit 711f4f966e1ea2b39e89a4c8aefc8338b12cdca5[m
+Author: Neeraj Kumar <susenj@users.noreply.github.com>
+Date:   Thu Apr 21 12:20:09 2022 +0530
+
+    Edited Latency, Throughput and bandwidth (#220)
+    
+    * Edited couple answers in the Network section
+    
+    * Edited Latency, Throughput and bandwidth
+
+[33mcommit 3c99d11da3455fb9d64f8e52a92749cbe755458a[m
+Author: Neeraj Kumar <susenj@users.noreply.github.com>
+Date:   Wed Apr 13 11:41:14 2022 +0530
+
+    Edited couple answers in the networks section (#218)
+
+[33mcommit 51caca8b9210cba42f5b3d9088ab42d02d7bbabb[m
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Sat Apr 9 23:22:06 2022 +0300
+
+    Devel (#216)
+    
+    * Add a couple of exercises
+    
+    Also fixed the link for kubernetes exercises.
+    
+    * Fix kubernetes images
+    
+    Also fixed the link to containers exercises.
+    
+    * Move Python exercises to a separate repository
+    
+    This is the first part in moving Python exercises
+    into their own repository.
+
+[33mcommit 696eb27b523e4a32024ab1d3b5b2eaccad8957e1[m
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Wed Apr 6 21:55:58 2022 +0300
+
+    Sync devel to master (#215)
+    
+    * Add a couple of exercises
+    
+    Also fixed the link for kubernetes exercises.
+    
+    * Fix kubernetes images
+    
+    Also fixed the link to containers exercises.
+
+[33mcommit 47aa28ab42d3f29e150f359ab62b147fbdaf6465[m
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Wed Apr 6 21:47:12 2022 +0300
+
+    Add a couple of exercises (#214)
+    
+    Also fixed the link for kubernetes exercises.
+
+[33mcommit ab8e2ebd4a49c5fe002f2e66173f252969d2b929[m
+Author: William Burton <twitchifygamers@gmail.com>
+Date:   Wed Apr 6 15:44:27 2022 -0300
+
+    Added information about APIPA (#206)
+    
+    * Added explanation and example of public IP address
+    
+    * Removed the IP and ISP bit
+    
+    * Added information about APIPA
+
+[33mcommit 6eb68c5f1ff8db50488a937f718ad345ffc8e6ea[m
+Author: bakossandor <30898371+bakossandor@users.noreply.github.com>
+Date:   Fri Apr 1 13:57:26 2022 +0200
+
+    AWS Excercises part extended with a simple Elastic Beanstalk application creation (#209)
+    
+    - Excercise and the Solution added
+
+[33mcommit 559c69fbc4ba2820780aa89e91392af0e5341b35[m
+Author: Zahid Hasan <pzahidhasan@outlook.com>
+Date:   Fri Apr 1 17:56:37 2022 +0600
+
+    git ls-files >> git ls-file (#213)
+    
+    typo
+
+[33mcommit 1f0f7c19cd1748f060dc8b5500c1b5a127eeeefd[m
+Author: William Burton <twitchifygamers@gmail.com>
+Date:   Mon Mar 28 10:23:34 2022 -0300
+
+    Added explanation and example of public IP address (#203)
+    
+    * Added explanation and example of public IP address
+    
+    * Removed the IP and ISP bit
+
+[33mcommit c6bb52c35657300692b1e205795901b35eacf5dc[m
+Author: kevinadhiguna <43397636+kevinadhiguna@users.noreply.github.com>
+Date:   Tue Mar 15 13:55:26 2022 +0700
+
+    feat(linux-ssh): add the answer for linux ssh-keygen question (#211)
+
+[33mcommit 53e6b6f4ea9005894370b94465c61b56d2b28e40[m
+Author: bakossandor <30898371+bakossandor@users.noreply.github.com>
+Date:   Wed Feb 9 11:24:08 2022 +0100
+
+    AWS Readme.md extended with the missing trusted Advisor description (#208)
+
+[33mcommit c443cde51bb8edf7f81fafb88a36eee36eac3e22[m
+Author: Akshay Khandelwal <72253881+akshaygitops@users.noreply.github.com>
+Date:   Mon Jan 24 22:57:07 2022 +0530
+
+    Added couple AWS/Kubernetes answers (#204)
+
+[33mcommit b4cfd42a8126b063e0994e290c8d5efa52dea5ca[m
+Author: Juan Manuel Vazquez <juanmvj_1996@live.com.mx>
+Date:   Sun Jan 23 14:19:24 2022 -0600
+
+    solving question "count number of spaces in a string" (#201)
+
+[33mcommit 89d53e4a0217d86000bbd8de65a1c284c9c4d9c0[m
+Author: vanquisher <32311274+Prajwalmithun@users.noreply.github.com>
+Date:   Wed Jan 5 13:09:27 2022 +0530
+
+    Update/linux exercise users and groups (#198)
+    
+    * updated answers of linux users and groups section
+
+[33mcommit 9790bb7face1bfc4d6a7389809f91cce9a9844c6[m
+Author: Adrian <59370927+adrianfusco@users.noreply.github.com>
+Date:   Tue Jan 4 08:02:27 2022 +0100
+
+    Update/add perl answers (#197)
+    
+    * New questions and spell check (#181)
+    
+    Added new questions related with KVM, Libvirt and DNF
+    
+    * Add CPAN Perl answers
+    
+    - What is CPAN
+    - How install a CPAN module
+
+[33mcommit 64f3fc9164f6dc3b169d181adadb3a4bb7aa5a17[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Dec 20 22:29:27 2021 +0200
+
+    Add a couple of AWS questions
+
+[33mcommit 6706171ca95eb5432298c1af87694f6f95b68be3[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Dec 4 06:56:07 2021 +0200
+
+    Add AWS execrises and questions
+    
+    Mostly about VPC and Route 53.
+
+[33mcommit 395d082ff1c0e904b3e2c92b51aa6e8f1b25c005[m
+Merge: 0784ef0 4a88b05
+Author: abregman <abregman@redhat.com>
+Date:   Mon Nov 29 08:11:58 2021 +0200
+
+    Merge branch 'master' of github.com:bregman-arie/devops-exercises into devel
+
+[33mcommit 4a88b0590d212e2bbdeb6c8af40112b29fec04af[m
+Author: Amaury Borges Souza <amaurybsouza@gmail.com>
+Date:   Mon Nov 29 03:11:48 2021 -0300
+
+    Update README.md (#194)
+
+[33mcommit 0784ef0fc23ee3b4efd0e8178a2cd618898ead1f[m
+Merge: 5803795 a7d23b9
+Author: abregman <abregman@redhat.com>
+Date:   Sun Nov 28 22:19:08 2021 +0200
+
+    Merge branch 'master' of github.com:bregman-arie/devops-exercises into devel
+
+[33mcommit a7d23b912dfdd2d8baf865bc7dc98d054205349e[m
+Author: Adrian <59370927+adrianfusco@users.noreply.github.com>
+Date:   Sun Nov 28 21:18:58 2021 +0100
+
+    Fix/word correction (#193)
+    
+    * New questions and spell check (#181)
+    
+    Added new questions related with KVM, Libvirt and DNF
+    
+    * Correct some spell errors
+
+[33mcommit 580379556ac307733ac25bbf81244edac8be304d[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Nov 28 22:17:06 2021 +0200
+
+    Add a couple of AWS exercises and questions
+    
+    MORE! :)
+
+[33mcommit abe451f0a6c5dfc0f04465829ab5a64a610e557a[m
+Merge: 3bbdbaf 023cf57
+Author: abregman <abregman@redhat.com>
+Date:   Fri Nov 26 12:55:20 2021 +0200
+
+    Merge branch 'master' of github.com:bregman-arie/devops-exercises into devel
+
+[33mcommit 3bbdbafd0e706ce21ae192fc7b27fcdc694c83a1[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Nov 26 12:55:02 2021 +0200
+
+    Add AWS exercises and questions
+
+[33mcommit 023cf57f906afadb0ab490b2616b1fb6564126ae[m
+Author: Abiel7 <56592834+Abiel7@users.noreply.github.com>
+Date:   Thu Nov 25 10:15:13 2021 +0100
+
+    update (#192)
+    
+    updated  much to must
+
+[33mcommit a2db75ed523e8f90fe288c5a1c161e4d38ce7951[m
+Author: Adrian <59370927+adrianfusco@users.noreply.github.com>
+Date:   Wed Nov 24 20:12:25 2021 +0100
+
+    Feature/new python answers (#191)
+    
+    * New questions and spell check (#181)
+    
+    Added new questions related with KVM, Libvirt and DNF
+    
+    * New answers
+    
+    * Adding a note about which way is faster: Union vs Bitwise
+    
+    * Add comment about slicing vs reversed
+
+[33mcommit f85dacd8cac34e2010fc12a7971461ca62e5b268[m
+Author: Osama-Rashid <40798025+Osama-Rashid@users.noreply.github.com>
+Date:   Wed Nov 24 10:39:14 2021 +0500
+
+    Added the github workflow for CI (#190)
+    
+    * Added the CI workflow which runs the scripts under the scripts/ folder
+    
+    * testing ci workflow
+    
+    * Gave required permission to the CI script
+    
+    * Removed a typo
+    
+    * Added shell parameter to job step in the workflow
+    
+    * Added the sh command to run the script
+    
+    * Added the command to install flake8 for running the ci workflow
+    
+    * Corrected a typo
+
+[33mcommit 195174a5b9dc9b2f34f65eb924a7e4978a22d7fe[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Nov 23 16:15:54 2021 +0200
+
+    Add AWS exercise and questions
+    
+    Mostly on Auto Scaling Groups.
+
+[33mcommit 6aa674a1c18ec9f1649bbbf4fad4fa39a66c067b[m
+Merge: 63a3b2e 3f3f247
+Author: abregman <abregman@redhat.com>
+Date:   Mon Nov 22 19:30:36 2021 +0200
+
+    Merge branch 'master' of github.com:bregman-arie/devops-exercises into devel
+
+[33mcommit 63a3b2ef2d78a58af857c68d8d2c3ab68f5c6e76[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Nov 22 19:29:57 2021 +0200
+
+    More AWS questions
+    
+    Created also the file for Grafana questions.
+
+[33mcommit 3f3f247b2608a04c26bccbf5174cd0f24e12ac5b[m
+Author: Sahil Tripathi <55251741+sahil2128@users.noreply.github.com>
+Date:   Mon Nov 22 18:23:19 2021 +0530
+
+    Update README.md (#189)
+
+[33mcommit 1dfe544c6c29c1212e438e68c7c4cd4250aab18c[m
+Author: Adrian <59370927+adrianfusco@users.noreply.github.com>
+Date:   Mon Nov 22 07:35:15 2021 +0100
+
+    Update/add perl questions and answers (#188)
+    
+    * New questions and spell check (#181)
+    
+    Added new questions related with KVM, Libvirt and DNF
+    
+    * New perl questions and answers.
+    
+    Handle errors. Open3. Packages.
+
+[33mcommit ed45cd121304741f7ce142c723d373ec9335c742[m
+Merge: 899c510 764c742
+Author: abregman <abregman@redhat.com>
+Date:   Sat Nov 20 22:59:49 2021 +0200
+
+    Merge branch 'master' of github.com:bregman-arie/devops-exercises into devel
+
+[33mcommit 899c510e76ab5b61c1dc91582f4fde9480dd3ea7[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Nov 20 22:59:23 2021 +0200
+
+    Add a couple of AWS questions and exercises
+    
+    EBS & ELB mainly.
+
+[33mcommit 764c7423b65d37d1a8cd913cbe715fc346ac2248[m
+Author: Adrian <59370927+adrianfusco@users.noreply.github.com>
+Date:   Sat Nov 20 01:12:20 2021 +0100
+
+    Update/move perl section (#187)
+    
+    * New questions and spell check (#181)
+    
+    Added new questions related with KVM, Libvirt and DNF
+    
+    * Create a new perl folder and move the content of the actual section
+
+[33mcommit f772911c6a669c2f7384d12fb5ec13f57262be25[m
+Author: Adrian <59370927+adrianfusco@users.noreply.github.com>
+Date:   Fri Nov 19 21:36:42 2021 +0100
+
+    Feature/new perl regex questions and answers (#186)
+    
+    * New questions and spell check (#181)
+    
+    Added new questions related with KVM, Libvirt and DNF
+    
+    * Add new perl regex questions and answers
+    
+    * Add one way to avoid one-liners in regex
+
+[33mcommit c93d394d9b0a32ad0fea67b469229f361ca65165[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Nov 19 11:28:55 2021 +0200
+
+    Add AWS questions
+    
+    Mainly about EFS.
+
+[33mcommit 779eb93d989fcf446891a996b34e9e2a1c4edff3[m
+Merge: 292c36f 14f99e2
+Author: abregman <abregman@redhat.com>
+Date:   Fri Nov 19 10:42:31 2021 +0200
+
+    Merge branch 'master' of github.com:bregman-arie/devops-exercises into devel
+
+[33mcommit 292c36fabb0d4ba915b4f27c2d98d46c3eac51e5[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Nov 19 10:42:11 2021 +0200
+
+    Add two storage questions
+
+[33mcommit 14f99e2ef9b06fc4af24932d07b91ee3a6857be9[m
+Author: Adrian <59370927+adrianfusco@users.noreply.github.com>
+Date:   Fri Nov 19 09:39:20 2021 +0100
+
+    Feature/new perl questions and answers (#185)
+    
+    * New questions and spell check (#181)
+    
+    Added new questions related with KVM, Libvirt and DNF
+    
+    * New perl questions and answers
+    
+    Added some questions and answers in the filehandle and OOP topics.
+
+[33mcommit 430fc777331c3dae0df4542ecfd1b9b9f4282b7d[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Nov 18 10:36:41 2021 +0200
+
+    Add new AWS exercises and questions
+    
+    SSIA :)
+
+[33mcommit 6464994b4cc34383961fc1cb4c49def35a38b76f[m
+Merge: 696893d 1604ce4
+Author: abregman <abregman@redhat.com>
+Date:   Thu Nov 18 10:36:32 2021 +0200
+
+    Merge branch 'master' of github.com:bregman-arie/devops-exercises into devel
+
+[33mcommit 1604ce467b6be0b7c09a7732062aa277d4e3b423[m
+Author: Adrian <59370927+adrianfusco@users.noreply.github.com>
+Date:   Thu Nov 18 09:16:51 2021 +0100
+
+    Add new Perl questions (#184)
+    
+    * New questions and spell check (#181)
+    
+    Added new questions related with KVM, Libvirt and DNF
+    
+    * New Perl questions
+    
+    * Change postition of topic in the table
+    
+    Put the perl topic at the end of the table to correct the table size
+
+[33mcommit 696893dc9535dfca297c4f15452072fa0b52c9b9[m
+Merge: 3532f56 cd4b55f
+Author: abregman <abregman@redhat.com>
+Date:   Thu Nov 18 08:37:02 2021 +0200
+
+    Merge branch 'master' of github.com:bregman-arie/devops-exercises into devel
+
+[33mcommit cd4b55fd2f0b2e842192cd94ce7b9fa237db2f74[m
+Author: Adrian <59370927+adrianfusco@users.noreply.github.com>
+Date:   Wed Nov 17 08:06:35 2021 +0100
+
+    New questions and spell check (#181)
+    
+    Added new questions related with KVM, Libvirt and DNF
+    
+    Co-authored-by: Adrian Fusco Arnejo <afuscoar@afuscoar.remote.csb>
+
+[33mcommit 3532f5613613324760ec922f351a6ad00d913799[m
+Merge: f7edd72 c0ddb8f
+Author: abregman <abregman@redhat.com>
+Date:   Tue Nov 16 18:57:49 2021 +0200
+
+    Merge branch 'master' of github.com:bregman-arie/devops-exercises into devel
+
+[33mcommit c0ddb8fde29295e48b987b54a78ed765ef64b1bc[m
+Author: Local Ops <localsnet@gmail.com>
+Date:   Tue Nov 16 16:42:01 2021 +0300
+
+    Correct purpose of "When is this MAC address used" (#179)
+    
+    * Correct purpose of "When is this MAC address used"
+    
+    Second sentense was a  tautology in fact, without disclosing the purpose of use
+    
+    * Missed phrase added to broadcast
+
+[33mcommit f7edd72302b34f10787244eadf4b076785063b9b[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Nov 13 20:57:18 2021 +0200
+
+    Add a couple of AWS exercises
+    
+    Questions as well :)
+
+[33mcommit 8b0360e13cfe4525aeb3af625ae46e92b14344a5[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Nov 12 14:43:38 2021 +0200
+
+    Add questions and exercises
+    
+    In addition, move shell scripting questions into a separate file.
+
+[33mcommit 432552549a8395cd826e4a85ea148bfa565a0ec6[m
+Merge: 43d714f 5b589fa
+Author: abregman <abregman@redhat.com>
+Date:   Fri Nov 12 14:05:32 2021 +0200
+
+    Merge branch 'master' of github.com:bregman-arie/devops-exercises
+
+[33mcommit 43d714fa12e3b65909dd0202d00fb188716434ea[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Nov 12 14:05:05 2021 +0200
+
+    Add a couple of AWS exercises
+    
+    Questions as well were added.
+
+[33mcommit 5b589faffb4adc9c893757d992bba6b0a904021a[m
+Author: Omar Hamad <etahamad@icloud.com>
+Date:   Fri Nov 12 14:04:38 2021 +0200
+
+    linux: Add cut command explanation (#177)
+
+[33mcommit 4207cebf4914b3d07d793bd68327716171d5e93c[m
+Author: Omar Hamad <omartldr@gmail.com>
+Date:   Thu Nov 11 11:41:51 2021 +0200
+
+    linux: Add grep command explanation (#176)
+
+[33mcommit af7e1a9007380eaecef30fe2044a3efe58202bc7[m
+Author: Coin Graham <coingraham@users.noreply.github.com>
+Date:   Wed Nov 10 14:20:27 2021 -0500
+
+    updating broken link to AWS Cloud Practitioner page. (#174)
+    
+    Co-authored-by: Coin Graham <coin.graham@cleardata.com>
+
+[33mcommit cf69197a44612a2b7f2732dce9365f974527cc46[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Nov 10 00:55:03 2021 +0200
+
+    The end of one long README
+    
+    Apparently we've reached the limit of GitHub rendering (512K).
+    Time to change the structure accordingly - exercises and questions
+    will move to sub-directories in the exercises directory.
+    
+    This is the first patch in performing this transition.
+
+[33mcommit 41b0f06dc3f78ed58f0e446f4080e49462e8e09a[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Nov 9 23:09:46 2021 +0200
+
+    MORE questions
+    
+    Don't stop learning.
+
+[33mcommit 503b5029e6de15a9aa2ef86acd9dbc99b4a85fe5[m
+Merge: 5163a9a 5f635bd
+Author: abregman <abregman@redhat.com>
+Date:   Sun Nov 7 17:54:17 2021 +0200
+
+    Merge branch 'master' of github.com:bregman-arie/devops-exercises
+
+[33mcommit 5163a9a258eb8a2817b26af6f7b1922cd07d205f[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Nov 7 17:54:06 2021 +0200
+
+    Add a couple of questions
+
+[33mcommit 5f635bd710788b0dbe885e6993e90092cd637484[m
+Author: mrthehavok <89513597+mrthehavok@users.noreply.github.com>
+Date:   Sun Nov 7 16:03:44 2021 +0300
+
+    Update AWS ELB info (#170)
+    
+    * Update AWS ELB info
+    
+    Added Gateway LB , updated Network LB and Classic LB
+    
+    * Answer for AWS Storage
+    
+    Added answer for Explain data consistency
+    
+    * Updated AWS Storage
+    
+    Added answer for hosting dynamic websites on S3
+    
+    * Added answer for AWS Storage
+    
+    Added answer for
+    What security measures have you taken in context of S3?
+    
+    * Updated AWS Security
+    
+    Added answer for What is AWS Guarduty?
+
+[33mcommit 2c77aa41607af78ddb61cc606509d190a9e67cbf[m
+Author: Goutham Kumar <47983326+gkdevops@users.noreply.github.com>
+Date:   Wed Nov 3 14:25:49 2021 +0530
+
+    Update README.md (#169)
+
+[33mcommit 18e69a2baa0efb0c5d37558dc1decfc4b5c12182[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Nov 1 01:20:42 2021 +0200
+
+    Add a couple of questions
+    
+    On various topics such as Containers, GitHub Actions,
+    Azure and more. Enjoy :)
+
+[33mcommit a074e5bb343bdad0ac7ccd52ebb1ce80549087c4[m
+Merge: 046b154 4060e81
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 31 08:33:26 2021 +0200
+
+    Merge branch 'master' of github.com:bregman-arie/devops-exercises
+
+[33mcommit 046b154ccd99e09e8794c8e5fd1f30ea57013d43[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 31 08:32:18 2021 +0200
+
+    Change Jenkins section to CI/CD
+    
+    CI/CD will include Jenkins and other CI/CD systems.
+    
+    In addition, added a couple of questions on various topics.
+
+[33mcommit 4060e8185b1c90402a043236641c1f72d88589ae[m
+Author: Oleksandr Knyga <oleksandrknyga@gmail.com>
+Date:   Fri Oct 29 21:32:55 2021 +0300
+
+    Small typo fixed in README (#168)
+    
+    CloufFormation -> CloudFormation
+
+[33mcommit 353ae7f60b0157ed73605066f6ed9308872a8093[m
+Merge: 153c930 e1bdf85
+Author: abregman <abregman@redhat.com>
+Date:   Thu Oct 28 08:53:02 2021 +0300
+
+    Merge branch 'master' of github.com:bregman-arie/devops-exercises
+
+[33mcommit 153c930a5a9b10e1c237503ebb79662bad5a1412[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Oct 28 08:50:35 2021 +0300
+
+    Update
+
+[33mcommit e1bdf850f59abf0bb8d7ea547c83bee38bfc5652[m
+Author: Ebennetteng <60264726+Ebennetteng@users.noreply.github.com>
+Date:   Mon Oct 25 11:46:15 2021 +0100
+
+    Update README.md (#167)
+    
+    Added an answer from a blog I wrote, I hope this is allowed, thank you for your consideration
+
+[33mcommit 51ecb4ff7785dcea69db8866bcf0adcf021d13c8[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 24 22:00:44 2021 +0300
+
+    Add a couple of questions on containers
+    
+    Also, fixed some minor styling issues in random_question.py script.
+
+[33mcommit aa420a7eed626e2559db8fb84a18f41b2ad9ec70[m
+Merge: 7a653a5 079c971
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 24 11:06:42 2021 +0300
+
+    Merge branch 'master' of github.com:bregman-arie/devops-exercises
+
+[33mcommit 7a653a5f121560f68bdd0b4b6c9044127fd75046[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 24 11:06:32 2021 +0300
+
+    Update
+
+[33mcommit 079c971f549d302464b5e45258cfc85378352aee[m
+Author: sha016 <92833633+sha016@users.noreply.github.com>
+Date:   Wed Oct 20 23:16:30 2021 -0500
+
+    Question answers (#165)
+    
+    * Added answers for 3 questions
+
+[33mcommit 2089e5f42d45f97ced5d53503b121aea5c15057f[m
+Author: Aleksey Tsalolikhin <66701226+atsalolikhin-spokeo@users.noreply.github.com>
+Date:   Wed Oct 20 21:09:18 2021 -0700
+
+    cosmetic: Fix typo (#166)
+
+[33mcommit de98eabea0e0f69dcb968a74e89f0a840851f955[m
+Merge: 809dd36 c4e7308
+Author: abregman <abregman@redhat.com>
+Date:   Wed Oct 20 10:10:54 2021 +0300
+
+    Merge branch 'master' of github.com:bregman-arie/devops-exercises
+
+[33mcommit c4e7308f252666742e2cc276f240208dd450690e[m
+Author: sha016 <92833633+sha016@users.noreply.github.com>
+Date:   Wed Oct 20 02:10:44 2021 -0500
+
+    Added random_question.py with basic usage (#164)
+
+[33mcommit 809dd369ad03015f9188089fa2a99cf58dddb868[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Oct 20 10:10:12 2021 +0300
+
+    Minor update
+
+[33mcommit 8cc94ceb7885e833c6fe5d4eea94b235170fab8c[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 17 23:37:07 2021 +0300
+
+    Add a couple of containers questions
+    
+    And answers :)
+
+[33mcommit e30c7aca4ff9ed7bd6e65edb762d206eea0cedb4[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 10 19:48:01 2021 +0300
+
+    Add a couple of new questions
+    
+    Mostly containers related questions.
+
+[33mcommit 6e9ac1ad5dffc6f15d8a67c01ed0e6e054bd5f49[m
+Merge: b245c2a 2f09ffb
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 10 14:47:10 2021 +0300
+
+    Merge branch 'master' of github.com:bregman-arie/devops-exercises
+
+[33mcommit b245c2adf2c28529278e2d7572ebbb8389190df9[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 10 14:46:45 2021 +0300
+
+    Add a couple of questions
+    
+    Mostly Kubernetes and containers.
+
+[33mcommit 2f09ffb8fb780ef238cec92172a90d4130b72c43[m
+Author: Dennis Urban <mail@dpunkturban.io>
+Date:   Thu Sep 30 17:00:40 2021 +0200
+
+    fix typo in go question (#163)
+
+[33mcommit 4f2662f611037ce0493c60adc5151e1ca649b4b2[m
+Merge: 484f50e 8c23697
+Author: abregman <abregman@redhat.com>
+Date:   Tue Sep 28 23:33:57 2021 +0300
+
+    Merge branch 'master' of github.com:bregman-arie/devops-exercises
+
+[33mcommit 484f50e9b93ed5fa4325597af87e25cc74612506[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Sep 28 23:33:38 2021 +0300
+
+    Add a couple of new questions
+
+[33mcommit 8c23697b8d812811b34d664ab446897385c4de75[m
+Author: Umegbewe Nwebedu <nwebedujunior55@gmail.com>
+Date:   Mon Sep 27 09:00:16 2021 +0100
+
+    Added ansible exercise and solution for upgrading and updating apt packages (#159)
+    
+    * added solutions and exercise to readme
+
+[33mcommit 8a510bb3042fa88a1b02af12c8e2933bfcce08a0[m
+Merge: 4cde87d 10643a0
+Author: abregman <abregman@redhat.com>
+Date:   Mon Sep 27 00:35:06 2021 +0300
+
+    Merge branch 'master' of github.com:bregman-arie/devops-exercises
+
+[33mcommit 4cde87dc2c8c7b486fd8564d1d2a1611e8ebfd53[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Sep 27 00:34:59 2021 +0300
+
+    Update
+
+[33mcommit 10643a0c69b3fcf148a296552bd1474bee080b71[m
+Author: abogolepov <47416231+abogolepov@users.noreply.github.com>
+Date:   Thu Sep 23 11:42:16 2021 +0300
+
+    fix typo (#158)
+
+[33mcommit a1a1f366992a7fd981878926e25fbf37f7ef1f82[m
+Author: Anne Douwe Bouma <annedouwe@bouma.tech>
+Date:   Fri Sep 17 17:08:09 2021 +0200
+
+    Use correct command for Ansible documentation (#155)
+    
+    Ansible modules are documented using the `ansible-doc` command. Not using the `ansible` command, this command executes the ad-hoc commands.
+
+[33mcommit ed85173a0b669483e35edddd87f605acfd58a851[m
+Author: Nilesh Londhe <nilesh@cloudgeni.us>
+Date:   Wed Sep 15 03:49:07 2021 -0700
+
+    Update fork_102.md (#151)
+    
+    This include is needed
+    
+    ```
+    #include <unistd.h>
+    ```
+
+[33mcommit 54ad724241bb842684831254132f8ef1af738030[m
+Author: Nilesh Londhe <nilesh@cloudgeni.us>
+Date:   Wed Sep 15 03:48:49 2021 -0700
+
+    Update fork_101.md (#150)
+
+[33mcommit 89c8ec68cac960729fb6755294e205bee63449a8[m
+Author: Udhav <udhav.pawar@ease.com>
+Date:   Wed Sep 15 03:48:31 2021 -0700
+
+    Devops exercises : Adding 2 Terraform questions on import (#149)
+    
+    * Add terraform import question
+    * Add how to use terraform import question
+    * Add example on how to use terraform import question
+
+[33mcommit e977f77933b000d04287ae32080894fbd1276a60[m
+Merge: 3d72bfb 397b1ec
+Author: abregman <abregman@redhat.com>
+Date:   Sun Sep 12 09:21:41 2021 +0300
+
+    Merge branch 'master' of github.com:bregman-arie/devops-exercises
+
+[33mcommit 3d72bfb2f0d5da15ea8386688b62e841f9e44518[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Sep 12 09:21:32 2021 +0300
+
+    Update
+
+[33mcommit 397b1ec9e19c02dd904901e518558830aec82daf[m
+Author: imnitin28 <76727343+imnitin28@users.noreply.github.com>
+Date:   Sat Sep 11 02:36:37 2021 +0530
+
+    Add few terraform questions related to state file (#148)
+    
+    * Adding few questions to terraform tfstate file topic
+
+[33mcommit 891c9c69fe36fab0a19d1e4b05193ccabd6604ee[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Sep 5 00:59:55 2021 +0300
+
+    Add a couple of Kubernetes questions and exercises
+    
+    In addition, changed the order of some Linux questions.
+
+[33mcommit e4f73b1edff0c079b988347b2c89da0e05f3a7d9[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Sep 3 17:03:09 2021 +0300
+
+    Add questions on Linux namespaces
+    
+    And an exercise on replicaset
+
+[33mcommit ab61a49f84ed2831c904decb9e6202c6e3772ac9[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Sep 1 01:02:32 2021 +0300
+
+    Add a couple of questions and exercises
+    
+    SSIA
+
+[33mcommit 0f0167afd2a06bfbceff9d19445d9523a43fb088[m
+Author: Arie Bregman <bregman.arie@gmail.com>
+Date:   Tue Aug 17 08:03:09 2021 +0300
+
+    Add Kubernetes questions
+
+[33mcommit 3b05d95256988dff59a593d32eb43ccec92e82b3[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Aug 13 09:23:50 2021 +0300
+
+    Add 57 new questions and exercises
+
+[33mcommit 6e01886e6b8c04be414e1474693cb2650d6159de[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Jul 22 20:45:06 2021 +0300
+
+    Add OS and OpenShift questions
+
+[33mcommit 1d88242f341a3e3c8e427c4323f00334d6105c11[m
+Merge: 4fd5c25 ad796f7
+Author: abregman <abregman@redhat.com>
+Date:   Tue Jul 20 10:48:48 2021 +0300
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit ad796f7155d1bb56c864e5fdea5267a49244d23c[m
+Author: Jack McDonnell <52510979+McJacko@users.noreply.github.com>
+Date:   Tue Jul 20 00:48:44 2021 -0700
+
+    ReplicaSets Information (#141)
+    
+    * Kubernetes Pod explanation (Jack McDonnell)
+    
+    * Kubernetes Deployment explanation
+    
+    * Kubectl explanation
+    
+    * ReplicaSets information
+
+[33mcommit 4fd5c25685f1b5105acb8460b98afa1fc20d807c[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Jul 20 10:48:31 2021 +0300
+
+    Add questions and answers
+
+[33mcommit c4897e890461bc7436e3339461c69ce1aad0aed1[m
+Merge: 992b3da 13cecf6
+Author: abregman <abregman@redhat.com>
+Date:   Sun Jul 18 22:01:30 2021 +0300
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit 992b3da3e8a004bd901e0daca48c4bf8a9b18315[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Jul 18 22:01:18 2021 +0300
+
+    Update
+
+[33mcommit 13cecf6f13ce1a5ced38f62c482cd6dbb3481f39[m
+Author: Jack McDonnell <52510979+McJacko@users.noreply.github.com>
+Date:   Sat Jul 17 09:55:29 2021 -0700
+
+    Kubectl explanation (#140)
+    
+    * Kubernetes Pod explanation (Jack McDonnell)
+    
+    * Kubernetes Deployment explanation
+    
+    * Kubectl explanation
+
+[33mcommit b30bb7d41b8176e62b21d5e99c7866d74248a2bb[m
+Author: Jack McDonnell <52510979+McJacko@users.noreply.github.com>
+Date:   Wed Jul 14 16:24:53 2021 -0700
+
+    Kubernetes Deployment explanation (#139)
+    
+    * Kubernetes Pod explanation (Jack McDonnell)
+    
+    * Kubernetes Deployment explanation
+
+[33mcommit 1991f8bdd1927f4de2d1f240f6528a87a622f69a[m
+Author: Oleg A. Arkhangelsky <sysoleg@yandex.ru>
+Date:   Thu Jul 15 00:49:12 2021 +0300
+
+    Correct SMTP port number (#138)
+
+[33mcommit c6c960912ddc10401798a1d828f935176d716928[m
+Author: Jack McDonnell <52510979+McJacko@users.noreply.github.com>
+Date:   Tue Jul 13 17:18:25 2021 -0700
+
+    Kubernetes Pod explanation (Jack McDonnell) (#137)
+
+[33mcommit 4c6d7360ce64173bbaeb185613281c11473667be[m
+Author: kratorr <31060213+kratorr@users.noreply.github.com>
+Date:   Mon Jul 12 12:20:33 2021 +0300
+
+    Add answer (#136)
+    
+    Co-authored-by: Vladimir <v@ao-sbk.ru>
+
+[33mcommit e1379fb6b5681d18e3a7d8313036736958da972c[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Jul 12 04:26:03 2021 +0300
+
+    Add system design notebook image
+    
+    As well as two Kubernetes basic exercises.
+
+[33mcommit e54648d47f6eeda06130bac5e7ad64cee73bcf23[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Jul 12 02:02:57 2021 +0300
+
+    Modify the structure of README.md
+    
+    Instead of having exercises in their own separate section,
+    they are now part of the main topics sections.
+    
+    This should make the learning process easier to follow
+    where users have both exercises and questions in the same
+    place.
+    
+    In addition, added a couple of new questions & exercises
+    and modified existing scripts accordingly.
+
+[33mcommit dfbe979872da24d51d599bc5d5b0a87caec2a9c0[m
+Merge: 122d158 1439d59
+Author: abregman <abregman@redhat.com>
+Date:   Sun Jul 11 11:07:51 2021 +0300
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit 122d158096bf7210c3500fb63c5d92d07d5dd5fb[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Jul 11 11:07:44 2021 +0300
+
+    Update
+
+[33mcommit 1439d5983ecd81a1efd521b573d6ec542b31f3c8[m
+Author: Stefan Matić <48199696+stefan-matic@users.noreply.github.com>
+Date:   Thu Jul 1 19:23:50 2021 +0200
+
+    Add more answers (#135)
+    
+    * Add more answers
+    
+    * Answer more questions
+    
+    * Answered some more
+
+[33mcommit 9a3e878480117fc542341f2e9d7c11864c366dfd[m
+Author: Bill <69961188+billxu1@users.noreply.github.com>
+Date:   Wed Jun 30 22:19:59 2021 +1000
+
+    Added < and > to list of quesitons. (#132)
+    
+    * Added two questions
+    
+    Added in > and < for Linux, as well as yes command (yes XYZ repeats XYZ in the console, useful for repetitive input)
+
+[33mcommit 395a2ce634544627c2a3ecbf9ff67c4e0756a197[m
+Author: Stefan Matić <48199696+stefan-matic@users.noreply.github.com>
+Date:   Wed Jun 30 05:12:06 2021 +0200
+
+    Updating some answers (#131)
+
+[33mcommit 44a036a9259b171f2f4578539441a3ba7fc0c705[m
+Author: Tanuj Dhiman <56601466+tanujdhiman@users.noreply.github.com>
+Date:   Sun Jun 27 23:01:11 2021 +0530
+
+    Update binary_search.py (#129)
+
+[33mcommit 71580d2ae9e1e9b7ad75d49f95e436f59aa7a020[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Jun 27 05:28:58 2021 +0300
+
+    Add a couple of questions
+
+[33mcommit bbbe0f3e9dde9d4b523a8b812f7b50260e702ad4[m
+Merge: 0478f63 45b8cac
+Author: abregman <abregman@redhat.com>
+Date:   Sun Jun 27 03:15:39 2021 +0300
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit 0478f635e7e96392aab7f0fdd226b67999ff1408[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Jun 27 03:15:34 2021 +0300
+
+    Update
+
+[33mcommit 45b8cacc373a3e33e2bf613be98108c94265f8a4[m
+Author: Koki Nishihara <snkg2450@gmail.com>
+Date:   Sun Jun 27 08:51:27 2021 +0900
+
+    Update README.md (#128)
+
+[33mcommit 4b551d1d09f546e2eeaedac7b3e58ff13719a198[m
+Merge: 6362c95 73f5d3b
+Author: abregman <abregman@redhat.com>
+Date:   Tue May 18 10:47:35 2021 +0300
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit 6362c95813cdbb3bd57150a61df0cce73acce85b[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue May 18 10:47:27 2021 +0300
+
+    Update
+
+[33mcommit 73f5d3b1b88a9503181c34e270b53380436279a3[m
+Author: PritomDas <das.pritom175@gmail.com>
+Date:   Sun May 16 03:31:31 2021 -0500
+
+    Update README.md (#127)
+
+[33mcommit b45aa4a2b1a5eda4d4c2c8911e93db1d60d2d96e[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Apr 11 23:07:25 2021 +0300
+
+    Add a couple of Virtualization questions
+
+[33mcommit f3f8de0f01db166aab2f5f2d6f8bdcdf3aa9a678[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Mar 30 10:45:15 2021 +0300
+
+    Add a link to linux master application
+    
+    Also, added a couple of answers.
+
+[33mcommit cecf7d2beb57210807d0dd2cfb257ca464a3f12b[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Mar 6 23:17:18 2021 +0200
+
+    Add a couple of questions
+    
+    And rearrange Linux section
+
+[33mcommit 710d0492f90e333533df61cf151728125997b411[m
+Merge: 99050cb ec0b96f
+Author: abregman <abregman@redhat.com>
+Date:   Sun Feb 28 23:10:16 2021 +0200
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit 99050cbf904e870db581af21a848badc7a8f4aaa[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Feb 28 23:10:06 2021 +0200
+
+    Update
+
+[33mcommit ec0b96f38f8211df8db33547e81b44b180fbdbbb[m
+Author: kooshals <35496077+kooshals@users.noreply.github.com>
+Date:   Fri Feb 26 22:10:49 2021 +0530
+
+    Answer to init process (#126)
+
+[33mcommit c66780275c4ff517d376c4858ea52bc534d70d49[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Feb 20 02:25:40 2021 +0200
+
+    Add a couple of answers
+
+[33mcommit fe3cf0d5db999f9a46809ca91b36a1e13cd8d9e2[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Feb 17 21:58:58 2021 +0200
+
+    Add a couple of questions and answers
+
+[33mcommit 874418fa74893329ef10c363a1a6a17579dbf6ba[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Feb 17 00:27:52 2021 +0200
+
+    Add more questions
+    
+    And links to other DevOps projects.
+
+[33mcommit 27ee317c97bccf32e42727c0337721133f20c323[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Jan 24 11:25:45 2021 +0200
+
+    Fixed #125
+    
+    Also added questions on Helm
+
+[33mcommit afbf0979278c0d3eff1523143beda6f059677e21[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Jan 24 02:05:01 2021 +0200
+
+    Add a couple of questions
+
+[33mcommit b41810a749b7d0a2f7a1073eadd3558c87885d81[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Jan 23 23:54:35 2021 +0200
+
+    Add a couple of Kubernetes questions
+    
+    Changed the order of some Kubernetes questions so the order
+    will make more sense and the learning will be more gradual.
+    
+    Also fixed the questions count and removed a duplicated question.
+
+[33mcommit 73dc7b3416b3d460a602b1afcc12fcfb9643f31d[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Jan 23 16:48:19 2021 +0200
+
+    Add a couple of Kubernetes questions
+
+[33mcommit fb0de87ce07407366eacb3bc9d52ff4cf7aa0b3b[m
+Merge: 5be1cc1 69cfa85
+Author: abregman <abregman@redhat.com>
+Date:   Sat Jan 23 00:46:15 2021 +0200
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit 5be1cc1d54ade82e82d54490fb09b7e21f43ed95[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Jan 23 00:45:53 2021 +0200
+
+    Add more questions
+
+[33mcommit 69cfa85a7539ec0a67ebb1226c5ba747a8c18d8a[m
+Author: Harsh <39079018+ksharshveer@users.noreply.github.com>
+Date:   Fri Jan 22 14:43:07 2021 -0800
+
+    Changes in section "Python OS" (#124)
+    
+    * Added answer in Python OS
+
+[33mcommit acead182497ac99a6bc9ca1eeafa7b07caebbd47[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Jan 22 01:53:24 2021 +0200
+
+    Add a couple of Kubernetes questions
+
+[33mcommit 7c5f66ee2b9e5174773ba268caf01b9f2136b189[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Jan 20 14:15:20 2021 +0200
+
+    Add a couple of answers and one new question
+
+[33mcommit 9a35f2fc32ab3b3fd9690f3bce0947c9d7f7215a[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Jan 11 22:39:24 2021 +0200
+
+    Add a couple of security questions
+
+[33mcommit fc26d95145786f979c7b4c1d10ceb79cdb875584[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Jan 3 11:54:31 2021 +0200
+
+    Add a couple of questions and a new exercise
+
+[33mcommit 01ae9c59bc0dff31040a19dfae285cde2c10cf56[m
+Merge: e16b2ec 235e94e
+Author: abregman <abregman@redhat.com>
+Date:   Sat Jan 2 06:29:58 2021 +0200
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit e16b2ecad799698c23292a96e0fa09d5ff79bfb8[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Jan 2 06:29:31 2021 +0200
+
+    Add a couple of questions
+    
+    And switch some questions from docker to podman.
+
+[33mcommit 235e94e603fe3525fd3cd301f3b76df235f4eb7f[m
+Author: Anwesh Budhathoki <45763486+anwesh-b@users.noreply.github.com>
+Date:   Tue Dec 22 17:30:16 2020 +0545
+
+    Added cloud answers (#116)
+
+[33mcommit 44644436b8125a83b29d651a659b6a0292bf42a2[m
+Author: Jackie Tung <jackie.tung@gmail.com>
+Date:   Fri Dec 18 03:29:46 2020 -0800
+
+    Fix typo in flask_container_ci/README.md (#123)
+
+[33mcommit 5ba0a0a4b52ac35921847243c40eebfc3c748bb1[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Dec 16 22:47:55 2020 +0200
+
+    Add a couple of questions
+
+[33mcommit bf7b136107dc5df42d217ad8b045549fa6396b29[m
+Merge: 32295e8 8e5f517
+Author: abregman <abregman@redhat.com>
+Date:   Wed Dec 16 22:05:10 2020 +0200
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit 32295e8931a4d6087497affafdb03b6a451e97b4[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Dec 16 22:05:01 2020 +0200
+
+    Add a couple of questions
+
+[33mcommit 8e5f517643a35b3eccae50a294544d7924378357[m
+Author: Rahul sharma <sharmaR0810@gmail.com>
+Date:   Sat Dec 12 15:16:40 2020 +0530
+
+    LB Question (#122)
+
+[33mcommit 66fd37d2c7e94791569f8ca0474384d0fda68e75[m
+Merge: 061f1ef aac7da0
+Author: abregman <abregman@redhat.com>
+Date:   Thu Dec 10 08:56:56 2020 +0200
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit 061f1ef6ff1531e21bc98ba0f019771ee21daa68[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Dec 10 08:56:48 2020 +0200
+
+    update
+
+[33mcommit aac7da07851260a2e033db9f9e61b0d00c70ea7e[m
+Author: SaleGajic <sasa.gajic91@gmail.com>
+Date:   Thu Dec 10 07:40:34 2020 +0100
+
+    Extended answer for ways deliver a software (#121)
+
+[33mcommit b264d466a6805564990c037024901cfdb9793522[m
+Author: Nana <31969365+nquayson@users.noreply.github.com>
+Date:   Wed Dec 9 01:24:42 2020 -0500
+
+    fix typo in python list comprehension code (#120)
+
+[33mcommit c54b65151386da614ad932ada31918dc1d20b132[m
+Author: SaleGajic <sasa.gajic91@gmail.com>
+Date:   Wed Dec 9 07:24:18 2020 +0100
+
+    Removing duplicated text (#119)
+
+[33mcommit dd93c45a8d3345cf6e190a4f4f66b6fcba95f0d1[m
+Merge: 24299d4 3ccc3b9
+Author: abregman <abregman@redhat.com>
+Date:   Tue Nov 24 10:31:35 2020 +0200
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit 24299d425440fc023d29f604b617778073cf06cd[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Nov 24 10:31:26 2020 +0200
+
+    Add a couple of questions
+
+[33mcommit 3ccc3b991ca54233d7d5ecfb5cabb4ef8bb7ff35[m
+Author: Rahul sharma <sharmaR0810@gmail.com>
+Date:   Thu Nov 19 23:28:21 2020 +0530
+
+    Ansible Questions (#118)
+    
+    * Blank Spaces Linted
+    
+    Vscode By default linting it, there is no way to overwrite Initially.
+    
+    * Add Ansible Question
+
+[33mcommit 62505e3e4021b69d0fbb3e4c24049a68cc50f2e4[m
+Merge: a64dece 74870bd
+Author: surister <surister98@gmail.com>
+Date:   Thu Oct 1 19:51:54 2020 +0200
+
+    Merge pull request #114 from BenOvermyer/patch-1
+    
+    Update the difference between containers and VMs
+
+[33mcommit 74870bdb42a52413f154d6e5e67ec3b6d8be67df[m
+Author: Ben Overmyer <ben@overmyer.net>
+Date:   Thu Oct 1 12:48:26 2020 -0500
+
+    Update the difference between containers and VMs
+
+[33mcommit a64decee570c4927f77acc2c2bcd45f7310970f7[m
+Author: surister <surister98@gmail.com>
+Date:   Fri Sep 18 10:25:38 2020 +0200
+
+    Fix unittest
+
+[33mcommit cc848b135db53031a9250f3d56a4fd6bf5a3189a[m
+Author: surister <surister98@gmail.com>
+Date:   Fri Sep 18 10:20:12 2020 +0200
+
+    Change 'challenge' into 'exercises' so questions are correctly counted
+
+[33mcommit 7dc878fb55afcba3c2e0f92d156bdd53281459bd[m
+Author: surister <surister98@gmail.com>
+Date:   Fri Sep 18 10:19:22 2020 +0200
+
+    Update question count
+
+[33mcommit cb134abf3c0b8926fe4e5b4b6bbcf51f24abdf4d[m
+Author: aramatev <14179945+aramatev@users.noreply.github.com>
+Date:   Thu Sep 17 17:11:51 2020 -0400
+
+    Update eflk.md (#110)
+
+[33mcommit c4555fcd3247b077bd542ee6441f417ace6fbb4e[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Sep 15 23:08:39 2020 +0300
+
+    Fix tag and update questions count
+    
+    Add missing '/' to closing <details> tag.
+
+[33mcommit 3b6f572485c705181790cd59ebffa358444565e8[m
+Author: TWC <wchipomho@gmail.com>
+Date:   Tue Sep 15 22:04:56 2020 +0200
+
+    adding more networking questions (#109)
+    
+    * Add questions and answers
+
+[33mcommit 066321a72ae6a8ea20bf48169fe277c145edcb92[m
+Author: TWC <wchipomho@gmail.com>
+Date:   Mon Sep 14 16:44:47 2020 +0200
+
+    Update and answer devops questions (#108)
+    
+    * update questions
+
+[33mcommit 9f5d762cdd429a94bc63b77676a220c9de8c9025[m
+Author: TWC <wchipomho@gmail.com>
+Date:   Fri Sep 11 17:50:48 2020 +0200
+
+    Add more Anthos Questions (#107)
+    
+    Add Anthos questions
+
+[33mcommit 6bd88790019bdcb3f1e46881d32924aa3f8f9757[m
+Author: TWC <wchipomho@gmail.com>
+Date:   Thu Sep 10 04:47:27 2020 +0200
+
+    Answer some DevOps questions (#106)
+
+[33mcommit ee50fa9bef0af451bd187a299815f87596fa13d4[m
+Author: TWC <wchipomho@gmail.com>
+Date:   Tue Sep 8 00:16:19 2020 +0200
+
+    Adding Anthos service mesh questions (#105)
+    
+    * adding Anthos questions
+
+[33mcommit 7eac5e150ec46385ab1c6c0ceb11f3a6ea69e0ec[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Sep 7 21:11:12 2020 +0300
+
+    Add link to the new system-design-exercises repository
+
+[33mcommit 598bda1bbbbf241d6642038d661ac326df2d736d[m
+Merge: 91cdeed 573fef6
+Author: abregman <abregman@redhat.com>
+Date:   Mon Sep 7 21:06:51 2020 +0300
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit 91cdeed427133ecb5489880a093abd4775848383[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Sep 7 21:06:46 2020 +0300
+
+    update
+
+[33mcommit 573fef63e40bfa77268449beb61d7df41d72dba6[m
+Author: TWC <wchipomho@gmail.com>
+Date:   Mon Sep 7 20:05:16 2020 +0200
+
+    Adding Anthos on GCP and K8s questions (#104)
+    
+    * update commands
+    * adding Anthos questions
+    * spelling error change
+    * add missing kubernetes commands
+    * resolve missing doubles
+    * add more k8s questions
+    * add more anthos and GKE questions
+
+[33mcommit 83fb9a047b48cf4be65b6bad92798447b822b312[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Sep 3 15:26:32 2020 +0300
+
+    Update questions count and image
+
+[33mcommit ccb1bb508422bbec040eb74ef443cf8e4b64caea[m
+Merge: 91c6c4c 718a82c
+Author: abregman <abregman@redhat.com>
+Date:   Wed Sep 2 02:01:13 2020 +0300
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit 91c6c4c7a6cb8e7c0864178bd39d0ea83e17c273[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Sep 2 02:01:08 2020 +0300
+
+    update
+
+[33mcommit 718a82ced1ddbf2bb9fb393592948f2ed986d099[m
+Author: wilbrodTC <wchipomho@gmail.com>
+Date:   Tue Sep 1 23:37:34 2020 +0200
+
+    change special namespaces to small caps (#102)
+
+[33mcommit 27a7a1437c10642bd57125f32f63f0b550c0a02b[m
+Author: Asher Manangan <51806917+AsherManangan@users.noreply.github.com>
+Date:   Tue Sep 1 08:08:35 2020 +0800
+
+    Update README.md (#100)
+
+[33mcommit f093b3249eda4c04c29f8fd593ff1658bc0f9c3f[m
+Merge: dedfa71 571fff2
+Author: abregman <abregman@redhat.com>
+Date:   Sat Aug 29 12:37:08 2020 +0300
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit dedfa716568f0ff33c4633b8b18e1a87bea663ee[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Aug 29 12:37:01 2020 +0300
+
+    update
+
+[33mcommit 571fff2e4318901327b13e4bd80d720efcd26639[m
+Author: Rahul sharma <sharmaR0810@gmail.com>
+Date:   Fri Aug 28 13:34:33 2020 +0530
+
+    Docker Questions (#98)
+    
+    * Kubernetes deployment question
+    
+    * Questions about docker
+    
+    Docker components
+
+[33mcommit a203beaad81415385dad445816d80cb8e2c3c865[m
+Merge: 2c35380 fbe89d4
+Author: abregman <abregman@redhat.com>
+Date:   Sun Aug 23 18:53:05 2020 +0300
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit 2c35380275ecae2b3acd4133d34ef4cdedc5b8e8[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Aug 23 18:52:53 2020 +0300
+
+    update
+
+[33mcommit fbe89d49c7fb79f304551a3af02a1e0f36ede401[m
+Author: Rahul sharma <sharmaR0810@gmail.com>
+Date:   Sun Aug 23 17:47:15 2020 +0530
+
+    Kubernetes deployment question (#97)
+
+[33mcommit 2afee2803d8828755d061d12d3f9549ebf90eb14[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Aug 19 16:02:39 2020 +0300
+
+    Add a couple of Kubernetes questions
+
+[33mcommit d156460b4c258cc0fd5619c6dfeccaa23714576d[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Aug 16 21:11:13 2020 +0300
+
+    Add a couple of questions
+
+[33mcommit a278bd90b21fb3c71d89e07cf57f11b8caa2b13d[m
+Merge: fafb7dd 5520408
+Author: abregman <abregman@redhat.com>
+Date:   Thu Aug 6 05:17:42 2020 +0300
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit fafb7dd0283d0694cd304623df963261eb760550[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Aug 6 05:17:34 2020 +0300
+
+    update
+
+[33mcommit 5520408dc2597592ccdaa7cb195e43cc4043a4be[m
+Author: firat <fatagun@gmail.com>
+Date:   Wed Aug 5 06:46:35 2020 +0300
+
+    Update README.md (#95)
+    
+    * Update README.md
+
+[33mcommit 993c1d53715ae521b82de3d05e3d06020d2f046c[m
+Merge: 0323f4d 94ba78e
+Author: abregman <abregman@redhat.com>
+Date:   Thu Jul 30 03:24:51 2020 +0300
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit 0323f4dd85c299926a4ad42b07ef6b1637be4f1e[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Jul 30 03:23:42 2020 +0300
+
+    Update
+
+[33mcommit 94ba78ede5ecbb6aba475ebbfa28b297b178b512[m
+Author: Joyce Kung <thejoycekung@users.noreply.github.com>
+Date:   Wed Jul 29 08:51:43 2020 -0400
+
+    Force OSI topics to render as one list (#92)
+
+[33mcommit 49d93aeb3209714271a25a742e16bede45700b41[m
+Author: Joyce Kung <thejoycekung@users.noreply.github.com>
+Date:   Wed Jul 29 08:51:18 2020 -0400
+
+    Remove discontinued Twitter account (#94)
+
+[33mcommit bcc13f0bcc7f02ce61bfca00788b8c8f36a655e7[m
+Merge: b2ae38b ac4c9c3
+Author: abregman <abregman@redhat.com>
+Date:   Tue Jul 28 14:53:51 2020 +0300
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit b2ae38bc3a44e160a946554000ac74db133e5531[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Jul 28 14:53:44 2020 +0300
+
+    update
+
+[33mcommit ac4c9c3bc127aafb903d6d0710e0ad03e9181cc1[m
+Merge: 9c327e5 4050b8d
+Author: surister <surister98@gmail.com>
+Date:   Sun Jul 19 09:10:44 2020 +0200
+
+    Merge pull request #93 from thejoycekung/joyce/python_list_comp
+    
+    Move list comp example to Python lists section from regex
+
+[33mcommit 4050b8df4317061744bbdbc39b0654e4a552afda[m
+Author: Joyce Kung <thejoycekung@gmail.com>
+Date:   Sat Jul 18 18:35:22 2020 -0400
+
+    Move list comp example to lists section from regex
+
+[33mcommit f04e79b7e6e94e6168edbfc60d9881a4aa203fac[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Jul 3 23:48:12 2020 +0300
+
+    Remove levels from subjects
+    
+    There is no need to distinguish between beginner and advanced questions
+    as they gradually harder and it's not always conclusive what their level
+    as it very much depends on your own personal knowledge
+
+[33mcommit 604cd750118e98d638411b0d79c44d52f44f3756[m
+Merge: ca5a89e 9c327e5
+Author: abregman <abregman@redhat.com>
+Date:   Fri Jul 3 14:13:30 2020 +0300
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit ca5a89e8582783bc42549e9253908af870aa01c6[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Jul 3 14:13:11 2020 +0300
+
+    update
+
+[33mcommit 9c327e5a6b4d24cb07dd242ca1d8a4d8aaa43cd7[m
+Author: bassbone <bassbone0o_o0@yahoo.co.jp>
+Date:   Fri Jul 3 20:12:47 2020 +0900
+
+    modify python exercise (#89)
+    
+    * modify python exercise
+
+[33mcommit 4fd287fe2efeb04444fb05485ec7d32639f797b0[m
+Merge: 38aaea8 a109947
+Author: abregman <abregman@redhat.com>
+Date:   Mon Jun 15 09:41:40 2020 +0300
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit 38aaea849a72ecbb76d29fa05e78cd2f750ee6fa[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Jun 15 09:41:32 2020 +0300
+
+    Add a couple of questions
+
+[33mcommit a1099473cf2fe5bbdc9f0ac87c7684d3285dd31e[m
+Author: Abdelrahman Badreldeen <abdelrahmanbadr.it@gmail.com>
+Date:   Mon Jun 1 11:48:30 2020 +0200
+
+    Added question "What is an index in a database?" (#88)
+    
+    * change AWS image extension from jpg to png
+    
+    * add index question in DB section
+    
+    Co-authored-by: Abdelrahman Badreldeen <abdelrahman.badreldeen@scratchpay.com>
+
+[33mcommit 1a3d9e688d20c6c0b0f2de995a977e8d57b32663[m
+Author: Abdelrahman Badreldeen <abdelrahmanbadr.it@gmail.com>
+Date:   Mon Jun 1 10:46:40 2020 +0200
+
+    change AWS image extension from jpg to png (#86)
+    
+    Co-authored-by: Abdelrahman Badreldeen <abdelrahman.badreldeen@scratchpay.com>
+
+[33mcommit 90a6170984e25083ae69d930fc3381e9f93c86cd[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu May 14 00:44:45 2020 +0300
+
+    Add a couple of AWS CP questions
+
+[33mcommit e04d81d0bc42dd642d941dc82642faefb9b5ab6d[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon May 11 01:36:32 2020 +0300
+
+    Add a couple of AWS questions
+
+[33mcommit c88e310a0a979326d7b24c6dba1af7e4ec7a6d16[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat May 9 16:40:51 2020 +0300
+
+    Add a couple of AWS questions
+
+[33mcommit e2951f4271e71ebbeff1175c4b6feca8125aa394[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed May 6 08:12:33 2020 +0300
+
+    Add certificates icon and a couple of questions
+
+[33mcommit d75fa3d9788bf99601f7bbe3dc196305bcd1cce1[m
+Merge: 636b2d3 b3217cc
+Author: abregman <abregman@redhat.com>
+Date:   Tue Apr 28 23:46:33 2020 +0300
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit 636b2d3e24911e13ab1dcfceb2b5c55b891e8823[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Apr 28 23:46:18 2020 +0300
+
+    Add a couple of questions
+
+[33mcommit b3217cc30f914be283cabc5f71aa634f9a7b2fc8[m
+Author: Roman Brodsky <52654272+brxdsky@users.noreply.github.com>
+Date:   Tue Apr 28 23:45:58 2020 +0300
+
+    delete duplicate question from database section (#85)
+
+[33mcommit 8a82030d767d1e99f08a5f089bd70aeb05fcfe79[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Apr 27 20:46:58 2020 +0300
+
+    Add cerificate (aws cloud pracitioner) questions
+
+[33mcommit 36125cd975491bf10c64218da2ea67083b7bbf21[m
+Merge: 4ea1901 0bf4456
+Author: abregman <abregman@redhat.com>
+Date:   Sat Apr 25 17:10:58 2020 +0300
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit 4ea19012ec4506877206982ecd7fe3ec25d8e8d8[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Apr 25 17:10:45 2020 +0300
+
+    Add a couple of questions
+
+[33mcommit 0bf4456260bbce27bfab48b3d2db2f9e8dc0bcab[m
+Author: mvsimhareddy <vickey.simha89@gmail.com>
+Date:   Sat Apr 25 07:09:21 2020 -0700
+
+    added DNS TCP or UDP answer (#84)
+    
+    Co-authored-by: Jai Rajendran <jairajendran@NII-50350.local>
+
+[33mcommit 89a5a70d90b27da82d6d3b63dbeb8ffddbf6d5bc[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Apr 12 19:25:24 2020 +0300
+
+    Add a couple of questions
+
+[33mcommit fa47c8ac483810a12af6b28b75cf3d2376a9bc05[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Apr 11 08:01:04 2020 +0300
+
+    Add a couple of Azure questions
+
+[33mcommit e78e594b84d547d5e851eba8fb2dafebc7a52251[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Apr 8 18:35:28 2020 +0300
+
+    Add a couple of questions
+
+[33mcommit 0f4c627a2e064814428fe172cfadc5b1aa94d456[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Apr 6 19:10:56 2020 +0300
+
+    Add a couple of questions on Linux and k8s operators
+
+[33mcommit 60243ff485789173bb1d21e1f6e9d1bcf005f4c0[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Apr 5 00:00:13 2020 +0300
+
+    999 questions
+    
+    It's quite amazing to reach this number of questions. A project which
+    started with just a few questions and the modest goal of helping others
+    to learn, being able to assess their level of knowledge and prepare
+    better for interviews.
+    
+    Thanks to all of our amazing contributors. To anyone who let us know
+    how this project was helpful for them. It's good to hear how one tiny
+    project can make positive impact on people's life.
+    
+    See you at 9999 questions ;)
+
+[33mcommit 464cfc506ba438783adcf75d0b46633d4a346477[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Mar 26 04:52:12 2020 +0200
+
+    Add ELK and Linux questions
+
+[33mcommit 4d281a8326bfc5e9522e0040ca72c3360c267342[m
+Merge: 3356ecb c50c4bd
+Author: abregman <abregman@redhat.com>
+Date:   Sat Mar 21 17:30:08 2020 +0200
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit 3356ecb18798b4ae45ddad6994051c7b50b377a8[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Mar 21 17:30:00 2020 +0200
+
+    Add a question
+
+[33mcommit c50c4bd75bdad8fad670a763f46f8a645d261051[m
+Author: Renato C. Francisco <56325092+renatocfrancisco@users.noreply.github.com>
+Date:   Mon Mar 16 15:41:26 2020 -0300
+
+    Added answer "What is a AAAA Record?" (#82)
+    
+    Added answer "What is a AAAA Record?" (DNS)
+
+[33mcommit 24b4ee77987fc3e1dd78df0c7a6a9afbe0a31928[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Mar 6 10:57:43 2020 +0200
+
+    Add a couple of questions
+
+[33mcommit f8c94113a234a11e3d576bb57ddac74b608e6ee6[m
+Merge: 16169ce f18dbc4
+Author: abregman <abregman@redhat.com>
+Date:   Fri Feb 28 22:32:17 2020 +0200
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit 16169cec51f620dea82b196035dab54aa7eee5d4[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Feb 28 22:32:12 2020 +0200
+
+    update
+
+[33mcommit f18dbc481715bbff64cb4e5ed1b76cec455a5cb0[m
+Author: Renato C. Francisco <56325092+renatocfrancisco@users.noreply.github.com>
+Date:   Wed Feb 26 21:03:32 2020 -0300
+
+    Add Subject Icons (again) + credits + fixed typos (#81)
+    
+    * Add files via upload
+    
+    * Update README.md
+    
+    * Delete vbox.png
+    
+    * Add files via upload
+    
+    * Update README.md
+    
+    * Update README.md
+    
+    * Add files via upload
+    
+    * Update README.md
+    
+    * Add files via upload
+    
+    * Update README.md
+    
+    * Update README.md
+    
+    * Update README.md
+    
+    * Delete googlecloud.png
+    
+    * Add files via upload
+    
+    * Update README.md
+    
+    * Update README.md
+    
+    * Update README.md
+    
+    * Add files via upload
+    
+    * Update README.md
+    
+    * Update README.md
+    
+    * Update README.md
+    
+    * Update credits.md
+    
+    * Add files via upload
+    
+    * Update README.md
+    
+    * Add files via upload
+    
+    * Update README.md
+    
+    i don't know how to make "merge commit"
+    i hate github
+
+[33mcommit 2080ff4d73eb7e18242dda0e9e82827e1f815869[m
+Merge: 08b2380 8952da6
+Author: surister <surister98@gmail.com>
+Date:   Wed Feb 19 19:32:15 2020 +0100
+
+    Merge pull request #80 from MinhajMoin/master
+    
+    Added Answer for Python: Improve the following Code
+
+[33mcommit 8952da6073502aa9ba86c645b00275b55c0a995a[m
+Author: Minhaj Ahmed Moin <21280679+MinhajMoin@users.noreply.github.com>
+Date:   Wed Feb 19 22:26:05 2020 +0500
+
+    k
+
+[33mcommit df80aaea346c3667dcef863609d5beaf910b6771[m
+Author: Minhaj Ahmed Moin <21280679+MinhajMoin@users.noreply.github.com>
+Date:   Wed Feb 19 21:54:29 2020 +0500
+
+    Few Additions
+
+[33mcommit 08b2380362ab27b50fb7f04cfeec77de4ffbacb2[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Feb 19 09:00:45 2020 +0200
+
+    900 questions milestone
+
+[33mcommit 4145ae62d0cef0113e9729ec06b364bfabe7b963[m
+Merge: 32aa9b7 cf44814
+Author: abregman <abregman@redhat.com>
+Date:   Fri Feb 14 23:27:58 2020 +0200
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit 32aa9b71a58bd221d1fb9b6066ef18b3c82a1fb3[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Feb 14 23:27:48 2020 +0200
+
+    Add a couple of questions
+
+[33mcommit cf4481420513a34934eb2d2f9049c001d44f7def[m
+Merge: b092de0 35e2882
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Fri Feb 14 21:40:20 2020 +0200
+
+    Merge pull request #78 from austinsonger/master
+    
+    New Answer
+
+[33mcommit 35e2882be9994028c176041b6b58344eabb3a0fb[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Fri Feb 14 19:29:35 2020 +0000
+
+    ANSWER: What is Jenkins? What have you used it for?
+
+[33mcommit 64c54c58a4eebf928d86de9e935bfc3872579720[m
+Merge: c82d674 b092de0
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Fri Feb 14 13:22:34 2020 -0600
+
+    Merge pull request #3 from bregman-arie/master
+    
+    Merging
+
+[33mcommit 1a7bbb06f81e725a6303a88e5729588c84aaf0ba[m
+Merge: 41c36c7 b092de0
+Author: abregman <abregman@redhat.com>
+Date:   Fri Feb 14 18:27:48 2020 +0200
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit 41c36c70141e374a9b310091a3c4aa064c7964bf[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Feb 14 18:27:40 2020 +0200
+
+    Add a couple of questions
+
+[33mcommit b092de0011cf4d9142dda81c2817180a19f14d3d[m
+Merge: 8ff61d7 a136ed0
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Fri Feb 14 17:16:49 2020 +0200
+
+    Merge pull request #77 from noartem/master
+    
+    Add golang questions about arrays, heap, sync
+
+[33mcommit a136ed09c37f117ddce5e2b89f8725e42033eeab[m
+Author: Noskov Artem <nowasmawesome@gmail.com>
+Date:   Fri Feb 14 20:08:23 2020 +0500
+
+    Add golang questions about arrays, heap, sync
+    Questions source: github.com/proghub-official/golang-interview
+
+[33mcommit 2f385e6e31173f9a5fbb9d37f95b9ee0ac247622[m
+Merge: f734671 8ff61d7
+Author: abregman <abregman@redhat.com>
+Date:   Wed Feb 12 16:08:21 2020 +0200
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-exercises
+
+[33mcommit f7346712c08a9b83a0c60b34c2d731fbd29a0b10[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Feb 12 16:08:08 2020 +0200
+
+    Add a couple of questions
+
+[33mcommit 8ff61d79128f2594f13d8d9918a12c7e9fccad22[m
+Merge: af08441 510d0bf
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Wed Feb 12 11:29:55 2020 +0200
+
+    Merge pull request #76 from noartem/master
+    
+    Fixed Go questions
+
+[33mcommit 510d0bf470681de77e46bbfb48c8b12814a7c4c8[m
+Author: Noskov Artem <nowasmawesome@gmail.com>
+Date:   Wed Feb 12 10:20:30 2020 +0500
+
+    Fixed Go questions
+    
+    Added answers for go questions
+
+[33mcommit af08441536daa348fd73f65d23766c5b1af44ef4[m
+Merge: 31dbfbb e9425b9
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Tue Feb 11 00:59:13 2020 +0200
+
+    Merge pull request #75 from aaronlake/patch-1
+    
+    Fix spelling mistake in README.md
+
+[33mcommit e9425b948eb0807d9a8cb82d249e77fcfac71a93[m
+Author: Aaron Lake <aaron.lake@gmail.com>
+Date:   Mon Feb 10 16:18:36 2020 -0500
+
+    Fix spelling mistake in README.md
+
+[33mcommit 31dbfbbc9d2d9c4f31ab014ddb40a61119e66ab3[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Feb 3 23:25:45 2020 +0200
+
+    Add a couple of questions
+
+[33mcommit dbedc63d731b07c8c4f1d4e32216691f01c726be[m
+Merge: ae99012 0f8bc36
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Sun Feb 2 18:50:20 2020 +0200
+
+    Merge pull request #74 from adityaprakash-bobby/answer-taint
+    
+    Pull for answer to tf taint
+
+[33mcommit 0f8bc36475a0a2c10aea566438a918f7fd0ef962[m
+Author: Aditya Prakash <adityaprakash.bobby@gmail.com>
+Date:   Sun Feb 2 02:14:11 2020 +0530
+
+    answer to terraform taint
+
+[33mcommit ae99012d61993771dd1ae772e125bccc40da57e3[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Jan 31 23:37:43 2020 +0200
+
+    Add a couple of Python questions
+
+[33mcommit dcabc81537c58fd7b674a383f7c5b11e5fbb5b47[m
+Merge: 39dbe98 c82d674
+Author: surister <surister98@gmail.com>
+Date:   Fri Jan 31 20:18:40 2020 +0100
+
+    Merge pull request #72 from austinsonger/master
+    
+    ANSWERED Network Related
+
+[33mcommit 39dbe98dc6ae45ae27825c4a34f852c56514bbd8[m
+Merge: 2f78d46 ea8cee3
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Sun Jan 26 19:31:27 2020 +0200
+
+    Merge pull request #73 from julplee/master
+    
+    Small fix of typo in readme.md
+
+[33mcommit ea8cee3eb33d4098484bc5b46c79a0fa6c3712a9[m
+Author: Julien Plée <julplee@gmail.com>
+Date:   Sun Jan 26 18:24:26 2020 +0100
+
+    Small fix of typo
+
+[33mcommit 2f78d46b9751864a9a6cdadc30ad0fde706e846a[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Jan 26 13:46:43 2020 +0200
+
+    Add Ansible and Regex questions
+
+[33mcommit c82d674d982787103b1b3ce732a8f06da2d42c0e[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Sun Jan 26 04:45:13 2020 +0000
+
+    Fixed Format of "Explain the OSI model"
+
+[33mcommit 09402afde4d29714aa3c3080d4485288dbb44aa2[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Sun Jan 26 04:43:37 2020 +0000
+
+    Fixed
+
+[33mcommit 8ebfc59b08a0f6c1791d4365c5f50190035f2b33[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Sun Jan 26 01:34:15 2020 +0000
+
+    Fixed: "alt" on go.png and added aws and azure
+
+[33mcommit e0965bc579185cde5ce2d1e30e19f967a5ae9f5a[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Sun Jan 26 01:29:55 2020 +0000
+
+    Added Image for GO
+
+[33mcommit 9abda0778aa32541096c36aa2aed934eb7863189[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Sun Jan 26 01:22:39 2020 +0000
+
+    ANSWERED: What is ARP? How it works?
+
+[33mcommit a37eb90bfb48cad42799799d073bbe6529af139a[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Sun Jan 26 01:21:23 2020 +0000
+
+    ANSWERED: Explain "default gateway"
+
+[33mcommit 5623f8c73f4e85c53a780b659d6f1a03467c8813[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Sun Jan 26 01:20:47 2020 +0000
+
+    ANSWERED: True or False? TCP is better than UDP
+
+[33mcommit 34c667333b1e22e6419fba86a129f3d9e17abcbf[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Sun Jan 26 01:18:03 2020 +0000
+
+    ANSWERED: What is TCP? How it works? What is the 3 way handshake?
+
+[33mcommit 417961ac8d10abc1665c5f304c39d4b35893554b[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Sun Jan 26 01:14:30 2020 +0000
+
+    ANSWERED: What is a proxy? How it works? What do we need it for
+
+[33mcommit fb484588dae081e09c4cb9807e8bf43c049c2e17[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Sun Jan 26 01:12:48 2020 +0000
+
+    ANSWERED: What is NAT?
+
+[33mcommit d7868b0d001de408341aed81d23ebe053dc14ede[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Sun Jan 26 01:11:20 2020 +0000
+
+    ANSWERED: How does a router works?
+
+[33mcommit 68d6ddfd3974ae9868083795c494041d32cb0723[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Sun Jan 26 01:09:37 2020 +0000
+
+    ANSWERED: Explain subnet mask and given an example
+
+[33mcommit 68471d5c5a39228c972c549de94d503194c1a9e7[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Sun Jan 26 01:01:05 2020 +0000
+
+    ANSWERED: What is an IP address?
+
+[33mcommit 7f4f362ddd8446b08f1e565088123099923de8aa[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Sun Jan 26 00:59:05 2020 +0000
+
+    ANSWERED: What is a MAC address? What is it used for?
+
+[33mcommit 2ee9b3210ff45a492d2a4c30ef3b4e370bf53746[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Sun Jan 26 00:56:34 2020 +0000
+
+    ANSWERED: What is Ethernet?
+
+[33mcommit bb179d6049e9b7f72f94fcbd600a58d8a4a4152f[m
+Merge: 00d5d41 a6403ea
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Sun Jan 26 00:53:40 2020 +0000
+
+    Merge pull request #1 from bregman-arie/master
+    
+    Update
+
+[33mcommit a6403ea21cdab368b06dc5d80b259fdb3d86eeb2[m
+Merge: a9a86ad a08e95b
+Author: surister <surister98@gmail.com>
+Date:   Fri Jan 24 19:03:15 2020 +0100
+
+    Merge pull request #71 from CharlyJazz/patch-1
+    
+    typographical error, tomcat
+
+[33mcommit a9a86ad49a0ecc11b10e49ae43b0db519e7dd063[m
+Merge: 15b2bca fd2a185
+Author: surister <surister98@gmail.com>
+Date:   Fri Jan 24 19:01:15 2020 +0100
+
+    Merge pull request #69 from bayangan1991/master
+    
+    Update README.md
+
+[33mcommit a08e95b2c4739f3e2fcdd1aac4a4e6a9790b2a1c[m
+Author: Carlos Azuaje <carlosjazzc1@gmail.com>
+Date:   Fri Jan 24 14:29:34 2020 -0300
+
+    typographical error, tomcat
+    
+    Tomact -> Tomcat
+
+[33mcommit 15b2bcaadc742d7d501353692ecdda12e535a0f3[m
+Merge: e8fad18 f046ca3
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Fri Jan 24 14:27:44 2020 +0200
+
+    Merge pull request #70 from LBlend/master
+    
+    Fixed typo
+
+[33mcommit f046ca39e77e82ac72ffdc3d916de746dbbd08be[m
+Author: LBlend <24893890+LBlend@users.noreply.github.com>
+Date:   Fri Jan 24 10:21:15 2020 +0100
+
+    Fixed typo
+    
+    to -> too
+
+[33mcommit fd2a1859d76eb0f3c9f3fe04c4799b32f5e58a24[m
+Author: bayangan1991 <ryan.bayangan@gmail.com>
+Date:   Fri Jan 24 14:46:00 2020 +1100
+
+    Update README.md
+
+[33mcommit e8fad188f33b324d768b37a033fdca54f20313f5[m
+Author: surister <surister98@gmail.com>
+Date:   Wed Jan 22 10:14:55 2020 +0100
+
+    Fix wording
+    
+    Fix wording from'between' to 'from'
+
+[33mcommit 7602ed113d3b175410ac3a87ac88797f4a6f636f[m
+Merge: 298e62f 7b7e78e
+Author: surister <surister98@gmail.com>
+Date:   Wed Jan 22 10:13:05 2020 +0100
+
+    Merge pull request #68 from sagorbrur/patch-1
+    
+    updated answer under Python/lambda
+
+[33mcommit 7b7e78e2f72b3c67431d7de74426a7dd055df3d2[m
+Author: Sagor Sarker <sagorhem3532@gmail.com>
+Date:   Wed Jan 22 14:43:32 2020 +0600
+
+    update answer under Python/lambda
+
+[33mcommit 298e62f8411e01603c9d95bfa5db9af07569511a[m
+Merge: ea17d9a 00d5d41
+Author: surister <surister98@gmail.com>
+Date:   Wed Jan 22 08:46:48 2020 +0100
+
+    Merge pull request #67 from austinsonger/master
+    
+    Added Security Related Questions,  REMAINDER: Fix minor typo.
+
+[33mcommit 00d5d412c82cd5e42451f5ef213bfbceb0dd2358[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Tue Jan 21 22:51:39 2020 +0000
+
+    ANSWERED: What is DNS Spoofing? How to prevent it?
+
+[33mcommit 0e3905472910e1d9f3c1894554b7102b15ab526f[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Tue Jan 21 22:48:30 2020 +0000
+
+    ANSWERED: What can you tell me about Stuxnet?
+
+[33mcommit 017b29cb99ea0c3862038c0834e6733b95006f85[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Tue Jan 21 22:47:24 2020 +0000
+
+    ANSWERED: What can you tell me about Spectre?
+
+[33mcommit 3ea1236c2da7b2d8b849df84064e5a97df687b8d[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Tue Jan 21 22:44:29 2020 +0000
+
+    DELETED Duplicate "Buffer Overflow" Question.
+
+[33mcommit f0614eadd2fce4dfa71d8c1b6691c0fc5b7dd140[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Tue Jan 21 22:43:36 2020 +0000
+
+    ANSWERED: Explain what is Buffer Overflow
+
+[33mcommit ef65b8e1fff2af8b6d49dc88af410f2e3ebd0cf8[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Tue Jan 21 22:42:35 2020 +0000
+
+    ANSWERED: What is Cache Poisoned Denial of Service?
+
+[33mcommit 030f2dfcd62a430b1e689e607a88b85fc311fba5[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Tue Jan 21 22:39:39 2020 +0000
+
+    ANSWERED: Explain MAC flooding attack.
+
+[33mcommit ea17d9a952e9d8e954b6d9caf74dd8de8e76b6cb[m
+Merge: 89aa001 db533c8
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Wed Jan 22 00:36:19 2020 +0200
+
+    Merge pull request #66 from austinsonger/master
+    
+    Python Question - Lambda
+
+[33mcommit db533c891ea331fab2e2df17819f9528f8f80925[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Tue Jan 21 22:03:20 2020 +0000
+
+    ANSWERED: Explain HTTP Header Injection.
+
+[33mcommit 1af924ba87fdeff96579b9681d447578664b04e9[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Tue Jan 21 21:57:43 2020 +0000
+
+    ANSWERED: Explain availability sets and availability zones
+
+[33mcommit 6c4f32af1b023b34d9b2ff7a7113b88714c554d5[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Tue Jan 21 21:48:34 2020 +0000
+
+    ANSWERED: Write a script to remove all the empty files in a given dir.
+
+[33mcommit accce12933b80f23f0ea9b939cf8f89a4dfc7e8b[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Tue Jan 21 21:46:27 2020 +0000
+
+    ANSWERED: Write a script to determine whether a host is up or down
+
+[33mcommit 72ded52b76b21b85eedce12828fb2b416e0169c9[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Tue Jan 21 21:42:42 2020 +0000
+
+    ANSWERED: What this line in scripts mean? #!/bin/bash
+
+[33mcommit 1e006671d91c9ef7fd514ca8573dc8d621060643[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Tue Jan 21 21:37:51 2020 +0000
+
+    ANSWERED: What are the advantages of MongoDB?
+
+[33mcommit 26da34b786cabe79d08143f2b8f15948dff6941b[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Tue Jan 21 20:48:44 2020 +0000
+
+    Asymmetric and Symmetric encryption
+
+[33mcommit 3b0c955925e24302037c7e351a1241cadf62191e[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Tue Jan 21 20:43:26 2020 +0000
+
+    Delete Duplicate of RBAC Question
+
+[33mcommit 570a64a74acc01a998b0b88c7e274930afc43204[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Tue Jan 21 20:41:05 2020 +0000
+
+    SSO + MFA + RBAC
+
+[33mcommit b9e22a6bbb0b95e3dd265012cd93889c893c8275[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Tue Jan 21 20:01:23 2020 +0000
+
+    Python Question: Lambda
+
+[33mcommit 89aa001497c9b1b1e2d546737d52e153f1859643[m
+Author: surister <surister98@gmail.com>
+Date:   Mon Jan 20 16:17:46 2020 +0100
+
+    Add details in python answer about error handling.
+
+[33mcommit 66cb4deacf6020a644dcca15179f1b91d375ed16[m
+Merge: b91df41 ee1870b
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Mon Jan 20 16:36:02 2020 +0200
+
+    Merge pull request #63 from sagorbrur/patch-2
+    
+    added answer under Python/Explain Exception....
+
+[33mcommit ee1870baff9ed3f947c95ee2769ce20b2dad0b85[m
+Author: Sagor Sarker <sagorhem3532@gmail.com>
+Date:   Mon Jan 20 19:20:31 2020 +0600
+
+    added answer under Python/Explain Exception....
+
+[33mcommit b91df41ce72e3daf5a25ee1ed18ad6cd4d216ba9[m
+Merge: e90be15 24b8d29
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Mon Jan 20 13:38:24 2020 +0200
+
+    Merge pull request #62 from sagorbrur/patch-1
+    
+    added answer under 'Git/what is .git directory?'
+
+[33mcommit 24b8d29b8a80af5994711ecd6e8551ae59e76e49[m
+Author: Sagor Sarker <sagorhem3532@gmail.com>
+Date:   Mon Jan 20 15:37:19 2020 +0600
+
+    added answer under 'Git/what is .git directory?'
+
+[33mcommit cfda57ac61b36c4e9a99845d8ef57fb93fd59638[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Sun Jan 19 22:54:25 2020 +0000
+
+    Added Answers to DNS and Security Questions
+
+[33mcommit e90be158cbfa04a384f15356f9f6f32531b69997[m
+Merge: 4e05b9d c130bd2
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Sun Jan 19 22:32:00 2020 +0200
+
+    Merge pull request #61 from austinsonger/master
+    
+    Updated README - Security
+
+[33mcommit c130bd2d105e136eb115348d3e3c80332c379277[m
+Author: Austin Songer <austinvernsonger@protonmail.com>
+Date:   Sun Jan 19 14:01:12 2020 -0600
+
+    Updated README - Security
+    
+    - SQL Injection
+    - CSRF
+    - XSS
+
+[33mcommit 4e05b9de224d2455a69300cc2f1b1c6a6c7257c0[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Jan 17 19:30:55 2020 +0200
+
+    Add a couple of Ansible questions
+
+[33mcommit ee6c25e006cc2adaed5a551c6588dc6133687f7b[m
+Merge: 4f1130d e079926
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Fri Jan 17 19:11:15 2020 +0200
+
+    Merge pull request #60 from dmattia/dmattia/tf_qs
+    
+    Added some terraform questions and answers
+
+[33mcommit e079926d09eed17bec9440882517444c7ae1768f[m
+Author: dmattia <david@transcend.io>
+Date:   Fri Jan 17 10:38:38 2020 -0600
+
+    Added some terraform questions and answers
+
+[33mcommit 4f1130d7c81354b122081f3b221406db9115c65d[m
+Merge: 85d8a56 5b6ea4a
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Fri Jan 17 15:38:13 2020 +0200
+
+    Merge pull request #59 from aman2611/patch-1
+    
+    better name for variables
+
+[33mcommit 5b6ea4aaad75be4c44fe56bf2d2df6cb07d3d065[m
+Author: aman2611 <amanprakash2611@gmail.com>
+Date:   Fri Jan 17 18:15:07 2020 +0530
+
+    better name for variables
+
+[33mcommit 85d8a566d1f2a47033ab008f7f2bca1826c35a72[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Jan 16 23:50:49 2020 +0200
+
+    Add another flask exercise
+
+[33mcommit 24edb687e466c58aeb66d0e515bb0b32c197249a[m
+Merge: d441029 195db7a
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Wed Jan 15 20:46:43 2020 +0200
+
+    Merge pull request #58 from apuzyrevsky/patch-2
+    
+    Update README.md
+
+[33mcommit 195db7a103ee8b01d2b2de34f013744adc2732a2[m
+Author: apuzyrevsky <anatoliypuzyrevsky@gmail.com>
+Date:   Wed Jan 15 20:08:11 2020 +0200
+
+    Update README.md
+    
+    added several answers for the Docker section.
+
+[33mcommit d441029162874baec339cdd2b1fdf2f7c4ae61d6[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Jan 14 11:35:25 2020 +0200
+
+    Add testing questions
+
+[33mcommit d43ec162f0bc2d6eba1253588fd0fb805957b8d0[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Jan 12 22:18:39 2020 +0200
+
+    Rename repository
+    
+    Unforunately, It came to my knowledge that this repository
+    promoted a phenomenon where DevOps interviews became a trivia game
+    where people think it's normal to throw 20 random short questions
+    like "what is fork()" or "which tools would you use for each
+    of the following areas?" and this was not my intention.
+    
+    To explcitly state this repository doesn't represents real DevOps
+    interview questions I've decided to rename it.
+
+[33mcommit cbda545d604d92fb2a58d3c6a70f6fe9b93b1676[m
+Merge: fd7e129 72f1f58
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Sun Jan 12 20:20:32 2020 +0200
+
+    Merge pull request #56 from apuzyrevsky/patch-1
+    
+    Update README.md
+
+[33mcommit fd7e129d09e6b1da98f3ab1652382fec9c890760[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Jan 12 20:18:40 2020 +0200
+
+    Add a couple of questions
+
+[33mcommit 72f1f586595265280eb30f86af979d17396932ff[m
+Author: apuzyrevsky <anatoliypuzyrevsky@gmail.com>
+Date:   Sun Jan 12 20:09:42 2020 +0200
+
+    Update README.md
+    
+    Added several answers for Docker questions.
+
+[33mcommit 7086fdab83566fe22c7b098836f87e6486beba8b[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Jan 12 00:39:40 2020 +0200
+
+    minor order changes
+
+[33mcommit 5d4942a63397b46d362bec67c45e993ebbe1ddd7[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Jan 10 02:11:02 2020 +0200
+
+    800 questions milestone
+
+[33mcommit d4cd1e2dd228b04c568fc68ea00fd108321136ee[m
+Author: surister <surister98@gmail.com>
+Date:   Thu Jan 9 12:18:19 2020 +0100
+
+    fix trailing space
+
+[33mcommit abbb951589ecd3addbc2c505bb7fb8f773b17274[m
+Author: surister <surister98@gmail.com>
+Date:   Thu Jan 9 12:13:31 2020 +0100
+
+    Rename file
+
+[33mcommit 1e535c1b0cd3fd8831c1fa3cbfc26f6a7c6d0ebf[m
+Author: surister <surister98@gmail.com>
+Date:   Thu Jan 9 12:12:42 2020 +0100
+
+    Add update question number script
+
+[33mcommit 4cb19b02b523619c1f7e4f2241c09a31f7ffd2ef[m
+Author: surister <surister98@gmail.com>
+Date:   Thu Jan 9 12:12:06 2020 +0100
+
+    Rename files
+
+[33mcommit ade931c4ccdde6c13199a51715f90e4aa585c14c[m
+Author: surister <surister98@gmail.com>
+Date:   Thu Jan 9 12:11:34 2020 +0100
+
+    Rename file, add utilities
+
+[33mcommit cc95d4631eb0ba640a6bbf335f9f1d0b5723b29c[m
+Author: surister <surister98@gmail.com>
+Date:   Thu Jan 9 12:07:41 2020 +0100
+
+    Rename syntax_checker into syntax_lint
+
+[33mcommit 6d45375c81373f4909386fa2e8b7709d2143fb20[m
+Author: surister <surister98@gmail.com>
+Date:   Thu Jan 9 12:06:30 2020 +0100
+
+    rename syntax_checker to syntax_lint
+
+[33mcommit c65212bc24d5844da74947bbda587726d7ea04e3[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Jan 8 23:42:40 2020 +0200
+
+    Add a couple of questions
+
+[33mcommit 8638107e7fd7e518ae40d2f272b31267f01ec6a7[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Jan 7 00:25:32 2020 +0200
+
+    Add a couple of questions
+
+[33mcommit 7c2a92285444dca58a63483322eff44f05eb846e[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Jan 4 20:32:39 2020 +0200
+
+    Add a couple of AWS questions
+
+[33mcommit 04c7261f9e56381fab6a99d6c4519458dc6d29e2[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Jan 3 15:56:36 2020 +0200
+
+    Add Azure questions
+
+[33mcommit c263795eeffd96fb27e6b9d4e368a1cdece6f899[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Jan 3 11:28:03 2020 +0200
+
+    Add a couple of questions
+
+[33mcommit cda4ceed77724d96154674f980f41a043c948e5f[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Jan 3 01:47:48 2020 +0200
+
+    Minor fixes
+
+[33mcommit 66c0672a085428b783f70023cd9ac86214405086[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Jan 2 18:33:11 2020 +0200
+
+    Update prepare_for_interview
+
+[33mcommit b98fe35d3e74146233edcbc39c2df069e8d2bea2[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Jan 2 00:17:47 2020 +0200
+
+    Add a couple of answers
+
+[33mcommit 6cca806453a8b7785b32242def62788b9d5ca061[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Jan 1 19:18:44 2020 +0200
+
+    Add Python questions and answers
+
+[33mcommit fddbd5c484565fa03a368f3f4b9a3ee912211077[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Dec 31 17:58:19 2019 +0200
+
+    Add a couple of questions
+
+[33mcommit 0482b85eb08ba4764ec895aff7ba74018a5308f3[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Dec 30 22:51:12 2019 +0200
+
+    Add another coding practice site
+
+[33mcommit b6fc433d5188f6641695f4d902fb1e90a90d65ad[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Dec 30 15:53:51 2019 +0200
+
+    Add a couple of Python questions
+
+[33mcommit 37684a93a7db0bd42b864b8adec467aff1db1247[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Dec 29 22:25:12 2019 +0200
+
+    Add a couple of questions
+
+[33mcommit d36288c19297479d7d0d54255b70f5b49ce3ba52[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Dec 29 02:28:31 2019 +0200
+
+    minor fix
+
+[33mcommit 6737aa22aa1a99e9be5da1928e5ae118e5c9e2a4[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Dec 29 00:28:46 2019 +0200
+
+    Update prepare_for_interview
+
+[33mcommit 763d7bc8deb1312ab4f7e6693f683bcf7e8762ff[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Dec 24 22:31:23 2019 +0200
+
+    Add a couple of questions
+
+[33mcommit b65dc7c392b459cccff4ff83e7311823394aea9e[m
+Author: surister <surister98@gmail.com>
+Date:   Tue Dec 24 19:34:31 2019 +0100
+
+    Add unittests
+
+[33mcommit e6f38a547638094497dc4ad8b5a4941ac3f2372c[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Dec 23 18:37:33 2019 +0200
+
+    Add a couple of questions
+
+[33mcommit adef3b91546ca4e6c6dad241cd35f2298865d2d0[m
+Author: surister <surister98@gmail.com>
+Date:   Mon Dec 23 14:02:40 2019 +0100
+
+    add function typing
+
+[33mcommit e08c1cbf473dc6394765bdaf718bc7ba66623055[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Dec 23 13:08:32 2019 +0200
+
+    Update flask_container_ci challenge
+
+[33mcommit dc802d41b536262bee457f09cb5e4a5f6b52cc00[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Dec 22 23:53:52 2019 +0200
+
+    700 questions :D
+
+[33mcommit 580d5af77fd89fdc632ca01c7ac8ba3c5e44ee98[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Dec 22 21:56:27 2019 +0200
+
+    Add a couple of AWS questions
+
+[33mcommit 634143172c53ad378d38f39faabed0180b06e039[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Dec 22 11:30:09 2019 +0200
+
+    Update flask_container_ci challenge
+
+[33mcommit f2cc9773f8df777c70cc057fbe057be077837881[m
+Author: surister <surister98@gmail.com>
+Date:   Sat Dec 21 23:48:35 2019 +0100
+
+    Fix typo
+
+[33mcommit 691c64405932270dc1213731de308dadd981d5e9[m
+Author: surister <surister98@gmail.com>
+Date:   Sat Dec 21 23:42:12 2019 +0100
+
+    Error bulk rather than single error exit
+
+[33mcommit c16e76a5a08801981ac9555c95ecb557e5c100a9[m
+Author: surister <surister98@gmail.com>
+Date:   Sat Dec 21 23:24:58 2019 +0100
+
+    Set max line lenght to 100 chars
+
+[33mcommit fffc60391a9c8e11c0df5cdac71098833ce27680[m
+Author: surister <surister98@gmail.com>
+Date:   Sat Dec 21 23:18:34 2019 +0100
+
+    error message improvement
+
+[33mcommit 0d8165313136842e7ee86da6395225939722c976[m
+Author: surister <surister98@gmail.com>
+Date:   Sat Dec 21 22:57:37 2019 +0100
+
+    correct error message
+
+[33mcommit 73665e6d52d7ec0e1e662bd0801857907783810f[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Dec 21 22:22:32 2019 +0200
+
+    PEP8 fixes
+
+[33mcommit 68e278fe15b3d08b056c4900ffdd17a0851ad267[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Dec 21 21:31:11 2019 +0200
+
+    Minor fixes
+
+[33mcommit 5eb968571e69da25c0015ef094e62c5aa75b1eda[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Dec 21 21:27:26 2019 +0200
+
+    Add .travis.yml
+    
+    For running the newly added syntax_checker + PEP8 test
+    for the Python files in this project.
+    
+    Also added small print to syntax_checker to indicate tests passed
+    successfully (yes, lack of error is also indication but this is
+    more user friendly imho).
+
+[33mcommit b4c46326d8aac2f739205e34ff140632028fd295[m
+Author: surister <surister98@gmail.com>
+Date:   Sat Dec 21 20:02:57 2019 +0100
+
+    Add .idea to .gitigore
+
+[33mcommit dd30656e7c7e6df98a9692dacb0eae4fcc1a2b43[m
+Author: surister <surister98@gmail.com>
+Date:   Sat Dec 21 20:00:47 2019 +0100
+
+    Fix somehow broken commit
+
+[33mcommit 2016810e0fcb25710fd320b14c500ffcbfb9341c[m
+Merge: bec1714 7a3b804
+Author: surister <surister98@gmail.com>
+Date:   Sat Dec 21 18:53:54 2019 +0100
+
+    Merge branch 'master' into master
+
+[33mcommit bec1714d5b67c4a3165096d36886243f0141b3a7[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Dec 21 19:50:04 2019 +0200
+
+    Update flask_container_ci challenge
+
+[33mcommit d64071128e8c1527794ac509ced9c0eb7845d562[m
+Merge: 979d11d cc65ba0
+Author: surister <surister98@gmail.com>
+Date:   Sat Dec 21 18:34:44 2019 +0100
+
+    Merge pull request #53 from bregman-arie/tests
+    
+    Merge tests changes.
+
+[33mcommit cc65ba0dace87096d009bb8ba37a1c0023f373e5[m
+Author: surister <surister98@gmail.com>
+Date:   Sat Dec 21 19:27:02 2019 +0100
+
+    Add pep8 new line at the end of file2
+
+[33mcommit 178930ae3fb9da5764c5ca831c4f785d5d0bc1be[m
+Author: surister <surister98@gmail.com>
+Date:   Sat Dec 21 19:25:47 2019 +0100
+
+    add witty line
+
+[33mcommit cc98987950094bf1e1c23b7bbc820b54000de0a5[m
+Author: surister <surister98@gmail.com>
+Date:   Sat Dec 21 19:24:54 2019 +0100
+
+    Add syntax checker suite unit test
+
+[33mcommit d8db75610b516583851a17feeb3b91fad5e423e1[m
+Author: surister <surister98@gmail.com>
+Date:   Sat Dec 21 19:24:34 2019 +0100
+
+    Add syntax checker suite
+
+[33mcommit 508b21b042e322bb64ea38b1ca46ad6edf90d849[m
+Author: surister <surister98@gmail.com>
+Date:   Sat Dec 21 19:24:14 2019 +0100
+
+    Add script that counts answered questions / questions
+
+[33mcommit 946ca980708788631816a1d67a6bb71b94b0c073[m
+Author: surister <surister98@gmail.com>
+Date:   Sat Dec 21 19:23:29 2019 +0100
+
+    Fix bad tags found by syntax checker suite
+
+[33mcommit 7a3b804cbc66c4d597562d990b84cb57c3897c3d[m
+Merge: 26da068 051fea2
+Author: surister <surister98@gmail.com>
+Date:   Sat Dec 21 16:43:02 2019 +0100
+
+    Merge pull request #4 from surister/Python_Syntax_Checker
+    
+    Python syntax checker
+
+[33mcommit 979d11d13f560cf894429fab8d513eccc036321a[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Dec 21 13:26:41 2019 +0200
+
+    Add new challenge
+
+[33mcommit 0f871e9b9ecdbb12beaede0c608f6bb8dbb4acb7[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Dec 20 23:45:29 2019 +0200
+
+    New Python questions
+
+[33mcommit 051fea2c9b34928bf29749f0d6b00bcff6fc8723[m
+Author: surister <surister98@gmail.com>
+Date:   Fri Dec 20 18:11:43 2019 +0100
+
+    First commit syntax checker
+
+[33mcommit 64731a6bcf1b364e9460e7910f33932a8e86d18c[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Dec 19 17:47:17 2019 +0200
+
+    Add a couple of questions
+
+[33mcommit ef2f00925607b9f40771e0d1690fd262acf17347[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Dec 19 15:59:58 2019 +0200
+
+    Add a couple of questions
+
+[33mcommit a1e45cfc49b5a13e5167847657428a77cbf16f6a[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Dec 19 13:57:31 2019 +0200
+
+    Add Linux questions
+
+[33mcommit 12c86d891a9538cb0b6a74a3eeca5669d7832d5b[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Dec 19 12:47:55 2019 +0200
+
+    Add a couple of questions
+
+[33mcommit 67c9f4f246bd02b4b0a74b3d297aaf26edce274a[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Dec 19 11:15:45 2019 +0200
+
+    Add a couple of questions
+
+[33mcommit cac8af4c094c14e5348645abfdc65637247a0ad2[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Dec 19 09:36:01 2019 +0200
+
+    Update common-qa
+
+[33mcommit 69180fd18f5ece0e78aa46cc02aa68529d3e51d8[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Dec 18 22:38:43 2019 +0200
+
+    Add a couple of Linux and Security questions
+
+[33mcommit 6c9a4254847a4eb34c09f4f0a242bc436ddc0fc7[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Dec 18 15:33:16 2019 +0200
+
+    Add a couple of Linux questions
+
+[33mcommit aefa9bf8d57bd9f79f0346f7e4d3ce2ac78fd489[m
+Merge: 5d1c2e0 a73d5a1
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Wed Dec 18 07:42:00 2019 +0200
+
+    Merge pull request #52 from raresociopath/master
+    
+    typo in work Providers
+
+[33mcommit a73d5a1c8e0bb65361cfbdb5da6371f42edccb53[m
+Author: raresociopath <imunteanu@codefactorygroup.com>
+Date:   Wed Dec 18 01:13:57 2019 +0200
+
+    typo
+
+[33mcommit 5d1c2e0dfd936c1de38b4d954fdf28eab0a27140[m
+Author: surister <surister98@gmail.com>
+Date:   Tue Dec 17 09:16:28 2019 +0100
+
+    fix typo
+
+[33mcommit 7fb5948dcea9af8711158555d2b6d8d81e00ab2d[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Dec 16 19:08:25 2019 +0200
+
+    Add a couple of questions
+
+[33mcommit 26da0687357f0d4055b6089c7495ebbd8460224b[m
+Author: surister <surister98@gmail.com>
+Date:   Mon Dec 16 12:16:05 2019 +0100
+
+    question counter script improved
+
+[33mcommit f09e3b8549160a94296fc58bb8e99269b83988a3[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Dec 15 22:22:35 2019 +0200
+
+    Extend prepare_for_interview
+
+[33mcommit 63d95e4e4ff756f31f7d84c4794bddf74034e76d[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Dec 13 20:16:00 2019 +0200
+
+    Add a couple of new questions
+
+[33mcommit 168cb19988ab1270572b4e1b7249787f199c46ee[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Dec 13 19:40:00 2019 +0200
+
+    Add 5 new questions
+
+[33mcommit a8c2888738c2596169995c47509b65117576ca2d[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Dec 12 00:00:40 2019 +0200
+
+    Add questions and answers
+
+[33mcommit 265fb49cf96dc0fce7ddf05473e9e5f63448a463[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Dec 11 08:50:33 2019 +0200
+
+    Add a couple of answers
+
+[33mcommit 6882503d446c9bf0193e5fcb2eae63c40a5580c9[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Dec 11 01:00:15 2019 +0200
+
+    Extend prepare for interviews page
+
+[33mcommit 66ffa436d97cad6945cd18f6e89a0844bce1a742[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Dec 11 00:37:49 2019 +0200
+
+    Extend prepare for interviews page
+
+[33mcommit 7da83f09581adbd57f41b59c0c0ba3f5f14dec5b[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Dec 9 20:24:31 2019 +0200
+
+    Add operating system questions
+
+[33mcommit e82b7cdec6a543f31ffa043f725f758b8bfcfc96[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Dec 9 18:18:16 2019 +0200
+
+    Add OS questions
+
+[33mcommit 74da454adabf1e253f5790f7ecff615c3564a7e4[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Dec 9 01:06:05 2019 +0200
+
+    Extend prepare_for_interview file
+
+[33mcommit d0a768915a8927b3b48560c8c0cbb5a93a2814df[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Dec 8 17:14:30 2019 +0200
+
+    600 questions milestone
+    
+    yay
+
+[33mcommit b9a0f3c42bb0b4384fc1cde8030e3e3081365d0f[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Dec 6 15:03:01 2019 +0200
+
+    Minor fix
+
+[33mcommit c1cd78c5d409e11ca93d33bf8e5af6b129d525ad[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Dec 6 14:49:46 2019 +0200
+
+    Add a couple of questions
+
+[33mcommit 8ed6571a58677a37c28aaf03096e24bfbc5c7c8b[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Dec 5 21:22:27 2019 +0200
+
+    Add elastic questions
+
+[33mcommit 786cb7e1955115af1a0de9563dfa1164a4b90cf3[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Dec 5 00:54:25 2019 +0200
+
+    Add 5 python interview questions
+
+[33mcommit 3a2f0c64a6baf3eeaffcdd02af714524847e4b4d[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Dec 5 00:24:31 2019 +0200
+
+    Add scenario question
+
+[33mcommit c0e52f6e47a05698cd766c378e7c7b8cb31ff564[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Dec 5 00:16:11 2019 +0200
+
+    add books to prepare_for_interview
+
+[33mcommit 0e77ca6611f6cc810005a91b65cdd53f56776c71[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Dec 5 00:07:46 2019 +0200
+
+    Add questions and answers page for clarification
+
+[33mcommit f18ab6822f37957120c431cd59ee1aa644754117[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Dec 4 23:28:55 2019 +0200
+
+    Add a couple of general questions
+
+[33mcommit 788f104f96d2933dde440fb3580b266d2ef13e13[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Dec 3 22:44:42 2019 +0200
+
+    Add how to prepare for an interview page
+
+[33mcommit 1a363bf3bc1f1e275eedef9ae10b5e7e0a912d28[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Dec 3 12:05:47 2019 +0200
+
+    Add 2 python questions
+
+[33mcommit deece0073ae6486260c330ea870f92d514254558[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Dec 2 20:54:31 2019 +0200
+
+    Add binary search solution
+
+[33mcommit 32db0cd91d8d6331bfb0b6edad85c43c2326c8c3[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Dec 2 17:35:59 2019 +0200
+
+    Add 2 scenario questions
+
+[33mcommit e30fd9fb21b6aea1fc7148d54fa52e0834f61739[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Dec 2 15:49:58 2019 +0200
+
+    Add new questions
+
+[33mcommit 49763097a39d76c714f966ffa739ee3a2e44af41[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Dec 2 11:48:52 2019 +0200
+
+    Add two questions - killing a zombie and tail implementation
+
+[33mcommit e5e8c945bc8345fbca6d610ec089ab8c30e353f1[m
+Merge: 7a651ba 391e062
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Mon Dec 2 11:42:59 2019 +0200
+
+    Merge pull request #49 from surister/master
+    
+    Add python decorator answer
+
+[33mcommit 391e062411ab1c9ef694b3e38cd547f83fe760a9[m
+Author: surister <surister98@gmail.com>
+Date:   Mon Dec 2 10:36:18 2019 +0100
+
+    Add python decorator answer
+
+[33mcommit 7a651baa7792a77c34f72411d67a657990e3b180[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Dec 1 18:23:47 2019 +0200
+
+    Add questions
+
+[33mcommit cb4a5cd2ff02ac02c3b59cb4317ca1bdfabc4f3d[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Dec 1 17:19:12 2019 +0200
+
+    Add more Elastic questions
+
+[33mcommit a598af3e76536c50a6d3e509ab28cdc3312a4e18[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Dec 1 16:52:49 2019 +0200
+
+    Add Elastic questions
+
+[33mcommit 8f67e100a61b5bdf8f3fee33ff1c5c69ce141010[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Dec 1 14:57:46 2019 +0200
+
+    Add DNS questions
+
+[33mcommit 5a82afed025699e571c2a05463fdddf9178706ad[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Nov 30 19:37:52 2019 +0200
+
+    Add elastic questions
+
+[33mcommit 4ecd2872446210ba2fa52e5c3a6d631e49041285[m
+Merge: 73c95e8 1b78fe6
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Fri Nov 29 14:01:22 2019 +0200
+
+    Merge pull request #48 from surister/new_linux_answers
+    
+    New linux answers
+
+[33mcommit 1b78fe666c0c5e23b8e193d17517a587edf159a4[m
+Author: surister <surister98@gmail.com>
+Date:   Fri Nov 29 12:57:01 2019 +0100
+
+    styling
+
+[33mcommit 8a60dae93e1a67a05be43daf05aaab68147a1a0c[m
+Merge: 84cd276 73c95e8
+Author: surister <surister98@gmail.com>
+Date:   Fri Nov 29 12:53:47 2019 +0100
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-interview-questions into new_linux_answers
+
+[33mcommit 84cd2765172d65c486e1863a18b635d2a54a3e75[m
+Author: surister <surister98@gmail.com>
+Date:   Fri Nov 29 12:53:41 2019 +0100
+
+    new linuxs answers
+
+[33mcommit 73c95e8cc3880fa65dbaf505319a7e155dbaff01[m
+Merge: 4b6c841 5c44714
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Thu Nov 28 14:38:46 2019 +0200
+
+    Merge pull request #45 from knoxknot/master
+    
+    Updated the Beginners Section of Terraform
+
+[33mcommit 8cebed155022395859cffc5428de3d9843fa3e1a[m
+Author: surister <surister98@gmail.com>
+Date:   Thu Nov 28 13:27:28 2019 +0100
+
+    add answer + styling
+
+[33mcommit 4b6c841a74fd2d06761e443a69207f01ff5bcc4c[m
+Merge: b776cb9 e63da0d
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Thu Nov 28 12:25:39 2019 +0200
+
+    Merge pull request #47 from surister/new_python_answers
+    
+    New python answers
+
+[33mcommit e63da0db6238673bc74e5e4cf04b97a807cf2a6f[m
+Author: surister <surister98@gmail.com>
+Date:   Thu Nov 28 11:04:10 2019 +0100
+
+    styling
+
+[33mcommit 4135b09412de123223add5282b02c26876a34a15[m
+Author: surister <surister98@gmail.com>
+Date:   Thu Nov 28 11:03:38 2019 +0100
+
+    styling
+
+[33mcommit 9ffbda01d2e90662c9b9676ca9ad29b6c554ba28[m
+Author: surister <surister98@gmail.com>
+Date:   Thu Nov 28 11:01:35 2019 +0100
+
+    Add new python 'unique elementes in list' answer
+
+[33mcommit 31ae1ce3796eca852899135ee15066663ec28a19[m
+Author: surister <surister98@gmail.com>
+Date:   Thu Nov 28 10:48:26 2019 +0100
+
+    styling
+
+[33mcommit e1449b2ac3e2bef840d9147aef754deeb0c390c8[m
+Author: surister <surister98@gmail.com>
+Date:   Thu Nov 28 10:33:07 2019 +0100
+
+    add python 'empty return' answer
+
+[33mcommit 5c447141d5f7c382399b0a3f37ed480c42328f80[m
+Author: Samuel Nwoye <nwoyesamuelc@gmail.com>
+Date:   Thu Nov 28 09:50:19 2019 +0100
+
+    Update README.md
+
+[33mcommit 59c2b98d97b32799fab06b3febb933be51ad0730[m
+Author: Samuel Nwoye <nwoyesamuelc@gmail.com>
+Date:   Thu Nov 28 09:47:33 2019 +0100
+
+    Update README.md
+
+[33mcommit 52d985844cdef58d94c5c538ec45bd280116b407[m
+Author: Samuel Nwoye <nwoyesamuelc@gmail.com>
+Date:   Thu Nov 28 09:39:57 2019 +0100
+
+    Edited the Sections According to Format
+    
+    @surister,@bregman-arie. I have adhered to the formats suggested. Thanks
+
+[33mcommit d8f2a3cd596cae9fd3bb0b4288acda1ecd47de2f[m
+Author: Samuel Nwoye <nwoyesamuelc@gmail.com>
+Date:   Wed Nov 27 09:48:47 2019 +0100
+
+    Update README.md
+
+[33mcommit cce13b3a61e7be75bd72669d461edb1c8274d6e0[m
+Author: Samuel Nwoye <nwoyesamuelc@gmail.com>
+Date:   Wed Nov 27 09:45:19 2019 +0100
+
+    Made a few Modifications
+
+[33mcommit 040a9c9b9af4bb2e0b61c39d3c4e5df259c42845[m
+Author: Samuel Nwoye <nwoyesamuelc@gmail.com>
+Date:   Wed Nov 27 09:41:30 2019 +0100
+
+    Corrections on the Answered Question
+
+[33mcommit b776cb99886664b9da780bef3b6676cea1c444ce[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Nov 26 22:13:16 2019 +0200
+
+    Add AWS security questions
+
+[33mcommit 85d9ce12af1e0b72ceec15badd661f91202700f5[m
+Author: Samuel Nwoye <nwoyesamuelc@gmail.com>
+Date:   Tue Nov 26 13:42:57 2019 +0100
+
+    Correction on the area answered questions on.
+
+[33mcommit 7723efac2aed67bbe619bd367b08c4c5ca41a74e[m
+Merge: 15185ed f905803
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Tue Nov 26 11:56:03 2019 +0200
+
+    Merge pull request #46 from surister/master
+    
+    Add linux answer.
+
+[33mcommit f905803732650b15eea5cafea46dba906e5983eb[m
+Merge: 15185ed 6f2641d
+Author: surister <surister98@gmail.com>
+Date:   Tue Nov 26 09:54:01 2019 +0100
+
+    Merge pull request #3 from surister/linux_answers
+    
+    Add new linux answers
+
+[33mcommit 6f2641dc08cafebe96b50b0f122cf1bdaee3e621[m
+Author: surister <surister98@gmail.com>
+Date:   Tue Nov 26 09:52:27 2019 +0100
+
+    Add new linux answers
+
+[33mcommit 480b6691682f021a2dfc762a975ee08252afcdc9[m
+Author: Samuel Nwoye <nwoyesamuelc@gmail.com>
+Date:   Tue Nov 26 07:09:27 2019 +0100
+
+    Updated the Beginners Section of Terraform
+    
+    Answered the definition questions for provider, resources and provisioner and those of terraform commands.
+
+[33mcommit 15185ed1f10d287a3f582973946fa74a1d614183[m
+Merge: 527e202 14c8074
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Tue Nov 26 00:39:29 2019 +0200
+
+    Merge pull request #43 from knoxknot/master
+    
+    Updated the Terraform Advaced Section with Answers
+
+[33mcommit 14c8074f1be1ed403f88c999b326fc5420c24f2d[m
+Merge: 527e202 39b6fbe
+Author: Samuel Nwoye <nwoyesamuelc@gmail.com>
+Date:   Sun Nov 24 17:44:18 2019 +0100
+
+    Merge pull request #1 from knoxknot/knoxknot-patch-1
+    
+    Updated Terraform Section
+
+[33mcommit 39b6fbeb8c25a80925f6fc4609b7dec67d06f531[m
+Author: Samuel Nwoye <nwoyesamuelc@gmail.com>
+Date:   Sat Nov 23 15:32:06 2019 +0100
+
+    Updated Terraform Section
+    
+    Answered the Advanced section questions for Remote State, State Lock and Random provider
+
+[33mcommit 527e202f0e58e8f141e929cbd6e184b77faf9b37[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Nov 19 12:08:05 2019 +0200
+
+    Add more questions
+
+[33mcommit 02f7b3c247eeddd0e3634654dee87962e88896db[m
+Merge: b7b1586 0549352
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Sat Nov 16 20:05:34 2019 +0200
+
+    Merge pull request #40 from zdj21jdz/master
+    
+    Added questions to ask during the interview
+
+[33mcommit 054935281b0037cbdc825bee590c08b1266d3490[m
+Author: Zachary Jansma <zdj21jdz@gmail.com>
+Date:   Fri Nov 15 10:04:58 2019 -0500
+
+    Added questions to ask during the interview
+
+[33mcommit b7b1586e6f571b4f6344ceafd9c2edbdcd116fff[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Nov 14 18:13:04 2019 +0200
+
+    fix table
+
+[33mcommit 9497b31b7b9a908db126002cbd9c11dfe4d6a53c[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Nov 12 13:57:51 2019 +0200
+
+    Add questions the candidate can ask
+    
+    And also add proper credits for the logo used in the project.
+
+[33mcommit 0d8cc37fa8533d5624839901b80ea79210707a87[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Nov 10 12:21:59 2019 +0200
+
+    add reference to devopsbit
+
+[33mcommit b4cdf9e75988b8a77014a64a9b649ffb7cbff3b9[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Nov 8 22:55:38 2019 +0200
+
+    Add new questions
+    
+    And put reference to devopsbit.
+
+[33mcommit 9ff923635d68269c9cd7874516a778ec4c43404a[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Nov 7 18:42:52 2019 +0200
+
+    Add new questions
+    
+    And change license due to content being copied without providing
+    credit.
+
+[33mcommit a88cd20bcb449561933d2a37dc30795659ccfd0e[m
+Merge: d6215fa 8c3211d
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Sat Nov 2 21:04:05 2019 +0200
+
+    Merge pull request #39 from obbap1/patch-1
+    
+    Minor spelling fix
+
+[33mcommit 8c3211d085160f67546735c885612804cf43e185[m
+Author: Obba Paschal <paschal.obba@stu.cu.edu.ng>
+Date:   Sat Nov 2 12:19:40 2019 +0100
+
+    minor spelling fix
+
+[33mcommit 6ed87f2e1ff2f36b4ea9f8a6a1e2606cf483f8cd[m
+Author: Obba Paschal <paschal.obba@stu.cu.edu.ng>
+Date:   Sat Nov 2 12:13:43 2019 +0100
+
+    Minor spelling fix
+
+[33mcommit d6215fa836c1c03bc1a1d2950e93c0271d3a8c6d[m
+Merge: 9d676bd 456a614
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Fri Nov 1 15:09:27 2019 +0200
+
+    Merge pull request #38 from krynv/patch-1
+    
+    Fixed grammar
+
+[33mcommit 456a614849cfc94d23af0e4283cdb88e6545394e[m
+Author: VK <24637852+krynv@users.noreply.github.com>
+Date:   Fri Nov 1 11:20:37 2019 +0000
+
+    Fixed grammar
+
+[33mcommit 9d676bdd25e82763e390b39525e6fdfaf3506302[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Oct 30 21:30:44 2019 +0200
+
+    Add two new questions
+
+[33mcommit 680f5425a7812454718eb11c72bdf93785bcccc6[m
+Merge: b665845 6e8c5b4
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Tue Oct 29 08:52:02 2019 +0200
+
+    Merge pull request #37 from ismferd/adding_monitoring_tools
+    
+    adding ELK and EFK as monitoring tools
+
+[33mcommit 6e8c5b466010f10a9d3ba924047a2e56877538c7[m
+Author: ismferd <fernandez.molina.ismael@gmail.com>
+Date:   Mon Oct 28 21:29:57 2019 +0100
+
+    adding ELK and EFK as monitoring tools
+
+[33mcommit b6658459737df2902f53f9f2f548b882e5a94a99[m
+Merge: f0d3c2f bb817bb
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Mon Oct 28 16:41:25 2019 +0200
+
+    Merge pull request #36 from Brendon127/fix-spelling
+    
+    Fix spelling errors
+
+[33mcommit bb817bba52849b1f34b5f2eb4f4d82a0ee30a47d[m
+Author: Brendon <brendonvbiljoen@gmail.com>
+Date:   Mon Oct 28 08:18:26 2019 +0200
+
+    Fixed some spelling errors
+
+[33mcommit f0d3c2f8bdf20f268d42d5682abba4766aef3692[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 27 21:58:33 2019 +0200
+
+    Add reference to devops-notebook
+
+[33mcommit 5bba9a7a8e8fd3fa8397e532052f766c393d22c6[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 27 12:55:14 2019 +0200
+
+    Minor fixes
+
+[33mcommit 1832e2f96afd6e51ade8cce01d632d18c467b554[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Oct 26 17:58:46 2019 +0300
+
+    Minor fixes
+
+[33mcommit 4f9442d39862491f6124c58ee6fec002c6de5862[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Oct 26 03:29:45 2019 +0300
+
+    500 interview questions milestone
+    
+    Thank you for all the contributors. Now let's get to 1000 :)
+
+[33mcommit c1c4d22f21683a8b45aadd1a075e6977c2e3cb12[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Oct 26 02:47:54 2019 +0300
+
+    Add 24 new questions
+
+[33mcommit b38ab14ade2c3794e8b10ebb7593485b2fe4d3e3[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Oct 26 00:22:22 2019 +0300
+
+    Add a couple of Python questions
+
+[33mcommit ef31801ad939a32c746c0242b0c6ac2ff4be93c4[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Oct 25 16:01:43 2019 +0300
+
+    Add a couple of new questions
+
+[33mcommit 6de274ac613f54bf6ee566ccd76dd2e0b28c0e1d[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Oct 25 14:52:11 2019 +0300
+
+    Add a couple of new questions
+
+[33mcommit 9b336514166829373026f5f242a94ef094eb88bf[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Oct 25 02:33:16 2019 +0300
+
+    Add a couple of questions
+
+[33mcommit d3eb6f85faa97dbc14e78d4fce96c3a08d4cca27[m
+Merge: e5322d3 2031c28
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Thu Oct 24 19:27:11 2019 +0300
+
+    Merge pull request #34 from rschmidtz/patch-1
+    
+    stateless vs. stateful
+
+[33mcommit 2031c28cad5c46c6a1cc7e93c739ccdf29ebb72d[m
+Author: Libert Schmidt <10736011+rschmidtz@users.noreply.github.com>
+Date:   Thu Oct 24 11:20:02 2019 -0400
+
+    stateless vs. stateful
+    
+    stateless vs. stateful Overview
+
+[33mcommit e5322d38c71f4d7d47369d0bad937e46825aed09[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Oct 24 15:34:40 2019 +0300
+
+    Add a note about the chinese translation
+
+[33mcommit 9666f0b0d4d04f33daa8fc84becce7b56d6f1a24[m
+Merge: f08d861 aedbfce
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Thu Oct 24 15:22:46 2019 +0300
+
+    Merge pull request #33 from hitao123/master
+    
+    add chinese document
+
+[33mcommit aedbfce4c2f7fc394e3f2e94b98626b0391f3cf9[m
+Author: huahaitao <huahaitao@baidu.com>
+Date:   Thu Oct 24 20:17:07 2019 +0800
+
+    add chinese document
+
+[33mcommit f08d861ee588668c3d6fb1731958038b15723420[m
+Merge: cc20cc5 073940c
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Thu Oct 24 02:09:27 2019 +0300
+
+    Merge pull request #32 from rschmidtz/patch-1
+    
+    What is the difference between TCP and UDP answer
+
+[33mcommit 073940cfe851b61e3d0fd129c0eecede00c8f9b7[m
+Author: Libert R Schmidt <rschmidt@nuvops.com>
+Date:   Wed Oct 23 19:00:07 2019 -0400
+
+    What is the difference between TCP and UDP answer
+    
+    What is the difference between TCP and UDP answer
+
+[33mcommit cc20cc5674d0dad7bee440c7ce1891530682725e[m
+Merge: 1eda57d 6818479
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Wed Oct 23 21:06:34 2019 +0300
+
+    Merge pull request #31 from spuder/patch-1
+    
+    Add process substitution
+
+[33mcommit 6818479742cdbec40986be9a6f78601452beb946[m
+Author: Spencer Owen <owenspencer@gmail.com>
+Date:   Wed Oct 23 11:37:05 2019 -0600
+
+    Add process subsititution
+
+[33mcommit 1eda57d212d3bd66950362d87ab1aa18dc219c3b[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Oct 23 19:54:45 2019 +0300
+
+    Add SRE questions
+
+[33mcommit aa0b6fa9ccbdefc0062b72c1b0c3e357c4b3a3b0[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Oct 23 10:27:02 2019 +0300
+
+    Add a couple of Go questions
+    
+    Also some contribution guidelines.
+
+[33mcommit 73ac855c843971cacba4835b0dcf802c1ec636f6[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Oct 23 00:16:15 2019 +0300
+
+    Fix format
+
+[33mcommit 10f0b97683e2d16bb06e643e752b5bcb1ae4581b[m
+Merge: 274915f 678a6bc
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Wed Oct 23 00:09:18 2019 +0300
+
+    Merge pull request #25 from popopo19/answer-python-question
+    
+    Answered 8th beginner python question
+
+[33mcommit 678a6bc61ee1a94041bfabb5ee6b685fe82cbea6[m
+Author: Soua <syang317@gmail.com>
+Date:   Tue Oct 22 16:03:46 2019 -0500
+
+    For the glory of PEP 8
+
+[33mcommit 274915f4423ee8131638e5a1b7e426d0ea82d305[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Oct 22 23:35:31 2019 +0300
+
+    Add 3 promethues questions
+
+[33mcommit 7b9fe0da71e6f282a204ab8e9da92441919bdc5e[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Oct 22 22:54:17 2019 +0300
+
+    Add a couple of cloud questions
+
+[33mcommit 68cdc59d7aa050259c0d99be0a0630e66c0c45ba[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Oct 22 21:32:47 2019 +0300
+
+    Add coding questions
+    
+    Also removed a couple of questions I added in the past but didn't really like.
+
+[33mcommit 9a4dfa1c490fe314be0a0f9ae10463bea71ba073[m
+Author: Soua <syang317@gmail.com>
+Date:   Tue Oct 22 11:17:21 2019 -0500
+
+    Answered 8th beginner python question
+
+[33mcommit 6e94108c0dc5e5c5a24b479af37a2f18e3279805[m
+Merge: c5639e3 0bf07b3
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Tue Oct 22 18:49:24 2019 +0300
+
+    Merge pull request #24 from zdj21jdz/master
+    
+    Minor grammar fix for SQL section, added answer under MongoDB section
+
+[33mcommit 0bf07b3cb8818a7f5ee4b682ee47372c7238ec48[m
+Author: Zachary Jansma <zdj21jdz@gmail.com>
+Date:   Tue Oct 22 11:37:23 2019 -0400
+
+    Minor grammer fix for SQL section, added answer to redundant question under MongoDB portion
+
+[33mcommit c5639e3b026528c76687902dde9d0d221b276fff[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Oct 22 17:30:04 2019 +0300
+
+    Add a couple of new questions
+
+[33mcommit e2ea087109a03d793f1bd07c3c6a8585177d4cfd[m
+Merge: aaf4704 84ab2b0
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Tue Oct 22 15:59:55 2019 +0300
+
+    Merge pull request #16 from surister/new_python_answers
+    
+    add Python 'Error' question + answer + Exception ansers
+
+[33mcommit 84ab2b0362cb9a637a28cc2cd78e25c68caa062f[m
+Author: surister <surister98@gmail.com>
+Date:   Tue Oct 22 13:29:48 2019 +0200
+
+    Fix typo
+
+[33mcommit c81aad93248cff318a55b17343d6e600f1a8d1b2[m
+Author: surister <surister98@gmail.com>
+Date:   Tue Oct 22 12:37:53 2019 +0200
+
+    add Python 'Error' question + answer + Exception ansers
+
+[33mcommit aaf4704b6502356b244b89de754cb3f8494c7774[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Oct 22 11:39:22 2019 +0300
+
+    Minor fix
+
+[33mcommit ec0821c75ffa28f29a13c8368e1b23ed14036e2e[m
+Merge: 0cc2ed6 deaf373
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Tue Oct 22 11:38:03 2019 +0300
+
+    Merge pull request #15 from surister/new_python_answers
+    
+    Add new python answers
+
+[33mcommit deaf3736c267aff4ade4ee5369494e8eb51d6d7f[m
+Author: surister <surister98@gmail.com>
+Date:   Tue Oct 22 10:29:03 2019 +0200
+
+    fix format
+
+[33mcommit e497b6bcf0898eecf6dc25f37f8838ebb8474634[m
+Author: surister <surister98@gmail.com>
+Date:   Tue Oct 22 10:28:01 2019 +0200
+
+    fix format
+
+[33mcommit 337b74d8d0819000273d7dc263f4d572df3f9b2b[m
+Author: surister <surister98@gmail.com>
+Date:   Tue Oct 22 10:27:22 2019 +0200
+
+    add Python inheritance answers
+
+[33mcommit 2522f5c32428cd0992713fb0c3c21edd1022ef2c[m
+Author: surister <surister98@gmail.com>
+Date:   Tue Oct 22 09:58:47 2019 +0200
+
+    Add python answers
+
+[33mcommit 0fb14b93a98164f233c9175220d45ece701db4c0[m
+Author: surister <surister98@gmail.com>
+Date:   Tue Oct 22 09:53:53 2019 +0200
+
+    Fixed formating
+
+[33mcommit b4e9ec46c076abecd56310891ddf65d19f3dcc91[m
+Author: surister <surister98@gmail.com>
+Date:   Tue Oct 22 09:53:10 2019 +0200
+
+    Add Python begginner question 'Python characteristics' answer
+
+[33mcommit 4b245d96f9793f503c129cfb57d203b6e6efdfe7[m
+Author: surister <surister98@gmail.com>
+Date:   Tue Oct 22 09:23:31 2019 +0200
+
+    formating fixed
+
+[33mcommit cd1f0db6ffd98dae420f34e910923de5be7e210c[m
+Author: surister <surister98@gmail.com>
+Date:   Tue Oct 22 09:22:34 2019 +0200
+
+    formating fixed
+
+[33mcommit b59c26f1cfb1600daaaa0878152c9d685bb047d5[m
+Author: surister <surister98@gmail.com>
+Date:   Tue Oct 22 09:21:42 2019 +0200
+
+    formating fixed
+
+[33mcommit 279c727ea02c5c2004ca35985c5509524ddf059c[m
+Author: surister <surister98@gmail.com>
+Date:   Tue Oct 22 09:19:57 2019 +0200
+
+    add Python begginner reverse a string answer
+
+[33mcommit edfba368186ce113bab75158b8121f62ae32cc58[m
+Author: surister <surister98@gmail.com>
+Date:   Tue Oct 22 09:06:49 2019 +0200
+
+    Completed Python Beginner 'use of _' answer
+
+[33mcommit 0cc2ed6f62c92042d55b3f4bf1f0c094b6ecba38[m
+Merge: 4091742 879f0d6
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Mon Oct 21 23:33:00 2019 +0300
+
+    Merge pull request #14 from AhGhanima/master
+    
+    Add some EC2 questions
+
+[33mcommit 879f0d6ca374020739a024db81586f570371fe4f[m
+Merge: ac80ad3 4091742
+Author: AhGhanima <25593897+AhGhanima@users.noreply.github.com>
+Date:   Mon Oct 21 22:30:56 2019 +0200
+
+    Merge branch 'master' into master
+
+[33mcommit 40917426a2ee4c6158ee2df015625f823adbf1e6[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Oct 21 23:23:58 2019 +0300
+
+    Add a couple of OpenStack and Network questions
+
+[33mcommit 1e91b889c9942b10297288cd28e0917c7ea3b47d[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Oct 21 22:58:41 2019 +0300
+
+    Add a couple of Docker questions
+
+[33mcommit ac80ad39a432c3cffc94d4383dfe47159fba624d[m
+Author: AhGhanima <25593897+AhGhanima@users.noreply.github.com>
+Date:   Mon Oct 21 21:23:57 2019 +0200
+
+    Update questions count
+
+[33mcommit a6591df0bdebcaac41bdfea6351a0bba19139b42[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Oct 21 21:50:38 2019 +0300
+
+    Add puppet questions
+
+[33mcommit 428f203268302f62e7d926252e27d497b16fd579[m
+Author: AhGhanima <25593897+AhGhanima@users.noreply.github.com>
+Date:   Mon Oct 21 20:36:29 2019 +0200
+
+    Add EC2 Questions
+
+[33mcommit 3028a3ee8e9d8729377557bb9a68d56e3f6d3318[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Oct 21 20:08:03 2019 +0300
+
+    Fix python mutable vs. immutable answer
+    
+    Thanks to surister for explaining why using id() is not a valid answer.
+    
+    Also added a couple of questions.
+
+[33mcommit e764432be8705b7858285acd63ef232bfd6bf895[m
+Merge: f0bd109 b4a98ab
+Author: abregman <abregman@redhat.com>
+Date:   Mon Oct 21 18:22:01 2019 +0300
+
+    Merge branch 'master' of https://github.com/bregman-arie/devops-interview-questions
+
+[33mcommit f0bd109a20ca2c195fedc0c2453afe49965e88f4[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Oct 21 18:05:32 2019 +0300
+
+    Add a couple of Python questions
+
+[33mcommit b4a98ab6bb998ebfba7984e4957385a5b28a30a1[m
+Merge: a7fd333 267b809
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Mon Oct 21 16:36:55 2019 +0300
+
+    Merge pull request #10 from ismferd/add/linux_answers
+    
+    adding new Linux answers
+
+[33mcommit 267b809d352e8587fb5a5ead9e551807ca3518e0[m
+Author: Ismael Fernandez Molina <fernandez.molina.ismael@gmail.com>
+Date:   Mon Oct 21 15:35:50 2019 +0200
+
+    Fix typo
+    
+    journalctl instead of journaclt
+
+[33mcommit a7fd333b4e2a5972263f54897d2c00167c9d6c32[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Oct 21 14:19:03 2019 +0300
+
+    Add security questions
+
+[33mcommit 0727d50480ea05e10e8255caf8a1ee0fd8fc2949[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Oct 21 12:24:53 2019 +0300
+
+    Add a couple of OpenStack questions
+
+[33mcommit d4db0c661a971413c1913767dc9bf70a282709c4[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Oct 21 12:05:06 2019 +0300
+
+    Add OpenStack and Azure questions
+
+[33mcommit 12d04e5ba01db589bf0dcb69cb57a6064e1e858e[m
+Merge: ce9e328 ca46912
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Mon Oct 21 11:16:06 2019 +0300
+
+    Merge pull request #11 from zdj21jdz/master
+    
+    Added SQL questions to the ReadME
+
+[33mcommit ca469128df04a5887b56606176699888c260c842[m
+Author: zdj21jdz <zdj21jdz@gmail.com>
+Date:   Sun Oct 20 23:47:24 2019 -0400
+
+    Added extra question, addressed some formatting issues
+
+[33mcommit 5129a3a8a168e3d2061b139c70654ba8b4e71210[m
+Author: zdj21jdz <zdj21jdz@gmail.com>
+Date:   Sun Oct 20 23:17:42 2019 -0400
+
+    Added SQL questions, as well as SQL Icon for top section of README
+
+[33mcommit ce9e32885beb42c225785a346d4746a98e1e1646[m
+Author: abregman <abregman@redhat.com>
+Date:   Mon Oct 21 02:07:35 2019 +0300
+
+    300 questions milestone
+    
+    Added a couple of new questions.
+
+[33mcommit 3c6f2a560156c9c2e725b13cad306698083ec4dd[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 20 23:17:27 2019 +0300
+
+    Add a couple of new questions
+
+[33mcommit 96845d62ca4ad78b192721d613ae80919efb6fb0[m
+Author: ismferd <fernandez.molina.ismael@gmail.com>
+Date:   Sun Oct 20 21:01:05 2019 +0200
+
+    adding new Linux answers
+
+[33mcommit 12d6f698bfda40094baa6ebb71c839fcedc20780[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 20 21:37:52 2019 +0300
+
+    Add a couple of questions
+
+[33mcommit 0edc4d1833d003a2dba7e15b17212354d05c4ab9[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 20 19:41:40 2019 +0300
+
+    Add a couple of Terraform questions
+
+[33mcommit 0976d2b5cc9097cbc2c71847b475dcf9e29d47dc[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 20 10:27:57 2019 +0300
+
+    Add a couple of new questions
+
+[33mcommit ae829ef9637eff67e8cf795ea04ff6dc72ab6dc9[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 20 09:29:53 2019 +0300
+
+    Add a couple of Ansible questions
+
+[33mcommit 4921318f7d8de76ee6474e37c794a80480b1594e[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 20 01:25:34 2019 +0300
+
+    Add 20 new questions
+
+[33mcommit cf03070b435c634333c4fc963f5ebaf5cd7d0487[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Oct 19 23:48:17 2019 +0300
+
+    Add a couple of new questions
+
+[33mcommit 8ce4a0d9e1d135026c6974409c168ea880353f27[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Oct 19 22:16:45 2019 +0300
+
+    Add a couple of Python questions
+    
+    Beginner + Advanced.
+
+[33mcommit 22d4d3a7a8bf62a96c6cd561da5eba46c5923b89[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Oct 19 21:51:20 2019 +0300
+
+    Add a couple of questions and update notes
+    
+    As there was some confusion on how this repository content should be
+    used.
+
+[33mcommit 3df32f2661be00281ec835499b791fd8a0cc4a45[m
+Merge: 2408de2 ed3525d
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Sat Oct 19 21:24:25 2019 +0300
+
+    Merge pull request #9 from AhGhanima/master
+    
+    Update AWS Infrastructure & S3 answers
+
+[33mcommit ed3525dd2f1743970c7de07d7177f0513900a982[m
+Author: AhGhanima <25593897+AhGhanima@users.noreply.github.com>
+Date:   Sat Oct 19 15:40:03 2019 +0200
+
+    Update AWS Infrastructure & S3 answers
+
+[33mcommit 2408de2df73621ef36652d365a4faff81cbc5db8[m
+Merge: 58147b3 4f0d3d5
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Sat Oct 19 14:07:33 2019 +0300
+
+    Merge pull request #8 from ronaldosaheki/add-question
+    
+    Add bash question
+
+[33mcommit 4f0d3d56ad964e137cd6374b34f1004928c81960[m
+Author: Ronaldo Saheki <ronaldo.saheki@olx.com>
+Date:   Sat Oct 19 11:57:38 2019 +0100
+
+    Add bash question
+
+[33mcommit 58147b3bf9c885e7c6c6911841e8ee85bbeb39df[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Oct 18 23:13:56 2019 +0300
+
+    Add a couple of questions
+    
+    Reached 200 questions :D
+
+[33mcommit 538f1b382f38331bdcf099391e3e83b127f45a49[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Oct 18 20:23:54 2019 +0300
+
+    Add several new questions
+
+[33mcommit cc151926a8425fa6e505037d6052e650d8da056c[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Oct 18 17:23:35 2019 +0300
+
+    Add a couple of Linux questions
+
+[33mcommit a83155cf5efe4561f99051463ee1af3e7dc02aa7[m
+Merge: 38ab4dc 6461417
+Author: Arie Bregman <abregman@redhat.com>
+Date:   Fri Oct 18 16:59:48 2019 +0300
+
+    Merge pull request #6 from kpucynski/immutable
+    
+    immutable fix
+
+[33mcommit 6461417bf55d9a9007ac0121ab058aa648f93446[m
+Author: Karol Pucynski <kpucynski@gmail.com>
+Date:   Fri Oct 18 15:56:30 2019 +0200
+
+    immutable fix
+
+[33mcommit 38ab4dc901339274d06c7c11c76fd049fbf99b33[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Oct 18 15:15:20 2019 +0300
+
+    Add basic shell scripting questions
+
+[33mcommit 70e2ccc99b8042b02c4db0992b47ee8a29c44382[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Oct 18 14:20:44 2019 +0300
+
+    Add a couple of notes regarding how to use the content
+    
+    Also moved jenkins pipeline writing questions to scenarios section.
+
+[33mcommit b0460a40b0e3aaa96449f0763c8749a5f5fbb3bc[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Oct 17 22:05:51 2019 +0300
+
+    Add a couple of questions
+
+[33mcommit dc9886c289ef4a22126554add560a58253fd7ed7[m
+Author: abregman <abregman@redhat.com>
+Date:   Thu Oct 17 09:58:08 2019 +0300
+
+    Add a couple of new questions
+
+[33mcommit 1ccb3fea81dc54825a74c84ec3e2dc307dc16741[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Oct 16 23:52:28 2019 +0300
+
+    Add a couple of questions
+
+[33mcommit 5b4afd3d6cf8a8ed0b22510ff98150cb88257208[m
+Author: abregman <abregman@redhat.com>
+Date:   Wed Oct 16 22:19:57 2019 +0300
+
+    Add a couple of questions and answers
+
+[33mcommit b41797c92f678c2b98c79b417a29b4ea1d1cba40[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Oct 15 01:59:50 2019 +0300
+
+    Add a couple of questions
+
+[33mcommit 9fd34d66dc34c1e2353f71030360615f676f0f4b[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 13 12:22:24 2019 +0300
+
+    Add a couple of questions
+
+[33mcommit bd3dcddc678b22864770b0537198275986f1919e[m
+Author: abregman <abregman@redhat.com>
+Date:   Sun Oct 13 02:25:56 2019 +0300
+
+    Add a couple of answers
+
+[33mcommit 1b5fdebe82adab18b1fbfca046734e0198233a90[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Oct 12 13:52:41 2019 +0300
+
+    Add 2 devops questions and a couple of answers to existing questions
+
+[33mcommit f6c7e2dedb8f4f9b449beff82909988701cca504[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Oct 11 02:47:27 2019 +0300
+
+    change table of contents
+    
+    Long simple lists < colorful logos :D
+
+[33mcommit 08cbeb2ca8e1bd27d49da2d740f81be217cda149[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Oct 11 00:57:21 2019 +0300
+
+    change page format
+    
+    I got the feedback that people don't want to see the answer right below
+    the question in visible state.
+
+[33mcommit 61d6ca45658e1dcd2473c28f628b76aa111531b0[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Oct 8 16:20:40 2019 +0300
+
+    Add a couple of devops and linux questions
+    
+    Also trying a new format and added answers to some git questions.
+
+[33mcommit 45d7b6fdc1902380d9a4e60d4464dade2d7f14e4[m
+Author: abregman <abregman@redhat.com>
+Date:   Tue Oct 8 14:56:19 2019 +0300
+
+    Add devops and terraform questions
+
+[33mcommit 7d89739a148fc715c7b6617e023c0371c41e8cd9[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Oct 5 16:43:54 2019 +0300
+
+    Add more questions
+
+[33mcommit c5c26be24c7da4065ee42388c5cbbd5ff321c7fc[m
+Author: abregman <abregman@redhat.com>
+Date:   Sat Oct 5 00:47:32 2019 +0300
+
+    Add a scenario question
+
+[33mcommit 421ade50b3deca7b71ea98cc6f2b9910907d2ec6[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Oct 4 23:43:47 2019 +0300
+
+    Add more questions
+
+[33mcommit 44a0fc67705dccf8c68ecbd508bf1b7f5523304e[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Oct 4 23:08:24 2019 +0300
+
+    Add more questions :)
+
+[33mcommit 151b384ce54a49673854ca4a331f8efdce7ea387[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Oct 4 19:33:39 2019 +0300
+
+    Add a couple of Linux questions
+
+[33mcommit 0d9b9f35e803466f35b8085e049e4d603fe59be2[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Oct 4 19:05:24 2019 +0300
+
+    Add prometheus questions
+    
+    And answers to two Docker questions.
+
+[33mcommit 2e3e30785626caf5bef8dd3563978ea4d8e90713[m
+Author: abregman <abregman@redhat.com>
+Date:   Fri Oct 4 19:00:34 2019 +0300
+
+    Add Docker and Python questions
+
+[33mcommit 099e2dbfcf24bfd8ae810c88a9461f01578834f9[m
+Author: Arie Bregman <bregman.arie@gmail.com>
+Date:   Fri Oct 4 11:26:17 2019 +0100
+
+    Add Linux and Ansible questions
+
+[33mcommit 2cd4c699464e1e5e44f0db503482c487f5a7ecc8[m
+Author: Arie Bregman <bregman.arie@gmail.com>
+Date:   Fri Oct 4 07:27:20 2019 +0100
+
+    add aws cloudfront questions
+
+[33mcommit cd0d167ba430b7f09e1c66ff6ee50f3d75b7b76c[m
+Author: Arie Bregman <bregman.arie@gmail.com>
+Date:   Thu Oct 3 20:09:40 2019 +0100
+
+    Add table of contents
+
+[33mcommit a7822348553e49305af81786f42590e53d3ba284[m
+Author: Arie Bregman <bregman.arie@gmail.com>
+Date:   Thu Oct 3 20:02:56 2019 +0100
+
+    add aws questions
+
+[33mcommit 8a4c47aa77d041cc0672b3b9c53ab5cbe4af6572[m
+Author: Arie Bregman <bregman.arie@gmail.com>
+Date:   Thu Oct 3 19:03:08 2019 +0100
+
+    Add more jenkins questions
+
+[33mcommit 8ac655b3a99656771abdbee4c40a01165e737bc6[m
+Author: Arie Bregman <bregman.arie@gmail.com>
+Date:   Thu Oct 3 18:48:59 2019 +0100
+
+    Add jenkins questions
+
+[33mcommit 1988b68843f090428985db9b91999ed899a8b9f0[m
+Author: Arie Bregman <bregman.arie@gmail.com>
+Date:   Thu Oct 3 18:31:22 2019 +0100
+
+    Initial commit
